@@ -13,8 +13,9 @@ num_tiradas = args.c
 num_corridas = args.n
 numero = args.e
 
-frecuencias={}
+tiradas={}
 for y in range(num_corridas):
+    frecuencias={}
     valores = []
     for c in range(1,num_tiradas + 1 ,1):
         valores.append(random.randint(0, 36))
@@ -23,10 +24,10 @@ for y in range(num_corridas):
                            "valor promedio de las tiradas": round((sum(valores) / len(valores)),4),
                            "desviacion estandar": round(((sum([(x - sum(valores) / len(valores))**2 for x in valores]) / len(valores))**0.5),4),
                            "varianza": round((sum([(x - sum(valores) / len(valores))**2 for x in valores]) / len(valores)),4)}
-
+    tiradas[y] = frecuencias
 #esto lo guarda como json
 with open('trabajos_practicos/datos.json', 'w') as jf: 
-    json.dump(frecuencias, jf, ensure_ascii=False, indent=2)
+    json.dump(tiradas, jf, ensure_ascii=False, indent=2)
 
 # print(frecuencias)
     
