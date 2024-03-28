@@ -1,0 +1,302 @@
+{
+  "1": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 31.0,
+    "desviacion estandar": 0.0,
+    "varianza": 0.0
+  },
+  "2": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 31.5,
+    "desviacion estandar": 0.5,
+    "varianza": 0.25
+  },
+  "3": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 29.3333,
+    "desviacion estandar": 3.0912,
+    "varianza": 9.5556
+  },
+  "4": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 27.75,
+    "desviacion estandar": 3.8324,
+    "varianza": 14.6875
+  },
+  "5": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 23.6,
+    "desviacion estandar": 8.98,
+    "varianza": 80.64
+  },
+  "6": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 24.3333,
+    "desviacion estandar": 8.36,
+    "varianza": 69.8889
+  },
+  "7": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 23.4286,
+    "desviacion estandar": 8.0509,
+    "varianza": 64.8163
+  },
+  "8": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 22.75,
+    "desviacion estandar": 7.7419,
+    "varianza": 59.9375
+  },
+  "9": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 21.6667,
+    "desviacion estandar": 7.9162,
+    "varianza": 62.6667
+  },
+  "10": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 22.8,
+    "desviacion estandar": 8.2438,
+    "varianza": 67.96
+  },
+  "11": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 21.6364,
+    "desviacion estandar": 8.6788,
+    "varianza": 75.3223
+  },
+  "12": {
+    "frecuencia relativa": 0.0,
+    "valor promedio de las tiradas": 20.25,
+    "desviacion estandar": 9.4967,
+    "varianza": 90.1875
+  },
+  "13": {
+    "frecuencia relativa": 0.0769,
+    "valor promedio de las tiradas": 19.9231,
+    "desviacion estandar": 9.1942,
+    "varianza": 84.5325
+  },
+  "14": {
+    "frecuencia relativa": 0.0714,
+    "valor promedio de las tiradas": 20.1429,
+    "desviacion estandar": 8.8951,
+    "varianza": 79.1224
+  },
+  "15": {
+    "frecuencia relativa": 0.0667,
+    "valor promedio de las tiradas": 19.7333,
+    "desviacion estandar": 8.729,
+    "varianza": 76.1956
+  },
+  "16": {
+    "frecuencia relativa": 0.0625,
+    "valor promedio de las tiradas": 20.1875,
+    "desviacion estandar": 8.6329,
+    "varianza": 74.5273
+  },
+  "17": {
+    "frecuencia relativa": 0.0588,
+    "valor promedio de las tiradas": 20.2941,
+    "desviacion estandar": 8.386,
+    "varianza": 70.3253
+  },
+  "18": {
+    "frecuencia relativa": 0.0556,
+    "valor promedio de las tiradas": 20.3889,
+    "desviacion estandar": 8.1591,
+    "varianza": 66.571
+  },
+  "19": {
+    "frecuencia relativa": 0.0526,
+    "valor promedio de las tiradas": 20.8421,
+    "desviacion estandar": 8.171,
+    "varianza": 66.7645
+  },
+  "20": {
+    "frecuencia relativa": 0.05,
+    "valor promedio de las tiradas": 20.1,
+    "desviacion estandar": 8.5959,
+    "varianza": 73.89
+  },
+  "21": {
+    "frecuencia relativa": 0.0476,
+    "valor promedio de las tiradas": 20.3333,
+    "desviacion estandar": 8.4534,
+    "varianza": 71.4603
+  },
+  "22": {
+    "frecuencia relativa": 0.0455,
+    "valor promedio de las tiradas": 20.5,
+    "desviacion estandar": 8.2943,
+    "varianza": 68.7955
+  },
+  "23": {
+    "frecuencia relativa": 0.0435,
+    "valor promedio de las tiradas": 20.5217,
+    "desviacion estandar": 8.1126,
+    "varianza": 65.8147
+  },
+  "24": {
+    "frecuencia relativa": 0.0417,
+    "valor promedio de las tiradas": 20.9167,
+    "desviacion estandar": 8.1645,
+    "varianza": 66.6597
+  },
+  "25": {
+    "frecuencia relativa": 0.04,
+    "valor promedio de las tiradas": 20.24,
+    "desviacion estandar": 8.6592,
+    "varianza": 74.9824
+  },
+  "26": {
+    "frecuencia relativa": 0.0769,
+    "valor promedio de las tiradas": 20.0769,
+    "desviacion estandar": 8.5301,
+    "varianza": 72.7633
+  },
+  "27": {
+    "frecuencia relativa": 0.0741,
+    "valor promedio de las tiradas": 20.1481,
+    "desviacion estandar": 8.3786,
+    "varianza": 70.2003
+  },
+  "28": {
+    "frecuencia relativa": 0.0714,
+    "valor promedio de las tiradas": 19.6071,
+    "desviacion estandar": 8.6946,
+    "varianza": 75.5957
+  },
+  "29": {
+    "frecuencia relativa": 0.069,
+    "valor promedio de las tiradas": 19.3793,
+    "desviacion estandar": 8.628,
+    "varianza": 74.4423
+  },
+  "30": {
+    "frecuencia relativa": 0.0667,
+    "valor promedio de las tiradas": 18.9667,
+    "desviacion estandar": 8.7692,
+    "varianza": 76.8989
+  },
+  "31": {
+    "frecuencia relativa": 0.0645,
+    "valor promedio de las tiradas": 18.4194,
+    "desviacion estandar": 9.1326,
+    "varianza": 83.4048
+  },
+  "32": {
+    "frecuencia relativa": 0.0625,
+    "valor promedio de las tiradas": 18.125,
+    "desviacion estandar": 9.137,
+    "varianza": 83.4844
+  },
+  "33": {
+    "frecuencia relativa": 0.0606,
+    "valor promedio de las tiradas": 17.697,
+    "desviacion estandar": 9.3176,
+    "varianza": 86.8173
+  },
+  "34": {
+    "frecuencia relativa": 0.0588,
+    "valor promedio de las tiradas": 17.7647,
+    "desviacion estandar": 9.1878,
+    "varianza": 84.4152
+  },
+  "35": {
+    "frecuencia relativa": 0.0571,
+    "valor promedio de las tiradas": 18.1429,
+    "desviacion estandar": 9.3202,
+    "varianza": 86.8653
+  },
+  "36": {
+    "frecuencia relativa": 0.0556,
+    "valor promedio de las tiradas": 18.4722,
+    "desviacion estandar": 9.3941,
+    "varianza": 88.2492
+  },
+  "37": {
+    "frecuencia relativa": 0.0541,
+    "valor promedio de las tiradas": 18.6216,
+    "desviacion estandar": 9.3095,
+    "varianza": 86.6676
+  },
+  "38": {
+    "frecuencia relativa": 0.0526,
+    "valor promedio de las tiradas": 18.2632,
+    "desviacion estandar": 9.4415,
+    "varianza": 89.1413
+  },
+  "39": {
+    "frecuencia relativa": 0.0513,
+    "valor promedio de las tiradas": 18.0256,
+    "desviacion estandar": 9.4339,
+    "varianza": 88.9993
+  },
+  "40": {
+    "frecuencia relativa": 0.05,
+    "valor promedio de las tiradas": 18.125,
+    "desviacion estandar": 9.3359,
+    "varianza": 87.1594
+  },
+  "41": {
+    "frecuencia relativa": 0.0488,
+    "valor promedio de las tiradas": 18.3415,
+    "desviacion estandar": 9.3224,
+    "varianza": 86.9078
+  },
+  "42": {
+    "frecuencia relativa": 0.0476,
+    "valor promedio de las tiradas": 18.0952,
+    "desviacion estandar": 9.3447,
+    "varianza": 87.3243
+  },
+  "43": {
+    "frecuencia relativa": 0.0465,
+    "valor promedio de las tiradas": 18.2558,
+    "desviacion estandar": 9.2939,
+    "varianza": 86.3764
+  },
+  "44": {
+    "frecuencia relativa": 0.0455,
+    "valor promedio de las tiradas": 18.2273,
+    "desviacion estandar": 9.1896,
+    "varianza": 84.4483
+  },
+  "45": {
+    "frecuencia relativa": 0.0444,
+    "valor promedio de las tiradas": 18.3333,
+    "desviacion estandar": 9.1141,
+    "varianza": 83.0667
+  },
+  "46": {
+    "frecuencia relativa": 0.0435,
+    "valor promedio de las tiradas": 18.1522,
+    "desviacion estandar": 9.096,
+    "varianza": 82.7377
+  },
+  "47": {
+    "frecuencia relativa": 0.0426,
+    "valor promedio de las tiradas": 18.1702,
+    "desviacion estandar": 8.9996,
+    "varianza": 80.9923
+  },
+  "48": {
+    "frecuencia relativa": 0.0417,
+    "valor promedio de las tiradas": 18.0625,
+    "desviacion estandar": 8.9359,
+    "varianza": 79.8503
+  },
+  "49": {
+    "frecuencia relativa": 0.0408,
+    "valor promedio de las tiradas": 18.3469,
+    "desviacion estandar": 9.0611,
+    "varianza": 82.1041
+  },
+  "50": {
+    "frecuencia relativa": 0.04,
+    "valor promedio de las tiradas": 18.16,
+    "desviacion estandar": 9.065,
+    "varianza": 82.1744
+  }
+}
