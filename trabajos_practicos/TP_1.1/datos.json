@@ -1,0 +1,3604 @@
+{
+  "0": {
+    "1": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.0,
+      "varianza": 0.0,
+      "desviacion estandar": 0.0
+    },
+    "2": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 14.5,
+      "varianza": 12.25,
+      "desviacion estandar": 3.5
+    },
+    "3": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 11.0,
+      "varianza": 32.6667,
+      "desviacion estandar": 5.7155
+    },
+    "4": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 10.5,
+      "varianza": 25.25,
+      "desviacion estandar": 5.0249
+    },
+    "5": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 12.0,
+      "varianza": 29.2,
+      "desviacion estandar": 5.4037
+    },
+    "6": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.6667,
+      "varianza": 91.5556,
+      "desviacion estandar": 9.5685
+    },
+    "7": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.0,
+      "varianza": 81.1429,
+      "desviacion estandar": 9.0079
+    },
+    "8": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 14.5,
+      "varianza": 72.75,
+      "desviacion estandar": 8.5294
+    },
+    "9": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 14.6667,
+      "varianza": 64.8889,
+      "desviacion estandar": 8.0554
+    },
+    "10": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.0,
+      "varianza": 59.4,
+      "desviacion estandar": 7.7071
+    },
+    "11": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 14.0,
+      "varianza": 64.0,
+      "desviacion estandar": 8.0
+    },
+    "12": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.5,
+      "varianza": 83.4167,
+      "desviacion estandar": 9.1333
+    },
+    "13": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.2308,
+      "varianza": 77.8698,
+      "desviacion estandar": 8.8244
+    },
+    "14": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.7143,
+      "varianza": 75.3469,
+      "desviacion estandar": 8.6803
+    },
+    "15": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.4,
+      "varianza": 71.7067,
+      "desviacion estandar": 8.468
+    },
+    "16": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 16.0,
+      "varianza": 72.625,
+      "desviacion estandar": 8.522
+    },
+    "17": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.2353,
+      "varianza": 77.7093,
+      "desviacion estandar": 8.8153
+    },
+    "18": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.8333,
+      "varianza": 79.4722,
+      "desviacion estandar": 8.9147
+    },
+    "19": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 15.7368,
+      "varianza": 75.4571,
+      "desviacion estandar": 8.6866
+    },
+    "20": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 16.75,
+      "varianza": 91.1875,
+      "desviacion estandar": 9.5492
+    },
+    "21": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.4286,
+      "varianza": 96.0544,
+      "desviacion estandar": 9.8007
+    },
+    "22": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.0455,
+      "varianza": 94.7707,
+      "desviacion estandar": 9.735
+    },
+    "23": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 16.5217,
+      "varianza": 96.6843,
+      "desviacion estandar": 9.8328
+    },
+    "24": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 16.4167,
+      "varianza": 92.9097,
+      "desviacion estandar": 9.639
+    },
+    "25": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 16.96,
+      "varianza": 96.2784,
+      "desviacion estandar": 9.8122
+    },
+    "26": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.2692,
+      "varianza": 94.966,
+      "desviacion estandar": 9.7451
+    },
+    "27": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.0,
+      "varianza": 105.3333,
+      "desviacion estandar": 10.2632
+    },
+    "28": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.8929,
+      "varianza": 101.8814,
+      "desviacion estandar": 10.0936
+    },
+    "29": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.4483,
+      "varianza": 107.0059,
+      "desviacion estandar": 10.3444
+    },
+    "30": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.9333,
+      "varianza": 110.2622,
+      "desviacion estandar": 10.5006
+    },
+    "31": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.9032,
+      "varianza": 106.7326,
+      "desviacion estandar": 10.3311
+    },
+    "32": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.4062,
+      "varianza": 111.0537,
+      "desviacion estandar": 10.5382
+    },
+    "33": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.9394,
+      "varianza": 114.663,
+      "desviacion estandar": 10.7081
+    },
+    "34": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.7353,
+      "varianza": 112.6652,
+      "desviacion estandar": 10.6144
+    },
+    "35": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.2286,
+      "varianza": 117.7192,
+      "desviacion estandar": 10.8498
+    },
+    "36": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.3056,
+      "varianza": 114.6566,
+      "desviacion estandar": 10.7078
+    },
+    "37": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.4054,
+      "varianza": 111.9167,
+      "desviacion estandar": 10.5791
+    },
+    "38": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.2105,
+      "varianza": 110.3767,
+      "desviacion estandar": 10.506
+    },
+    "39": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.8205,
+      "varianza": 113.3268,
+      "desviacion estandar": 10.6455
+    },
+    "40": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.425,
+      "varianza": 116.5944,
+      "desviacion estandar": 10.7979
+    },
+    "41": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.2683,
+      "varianza": 114.7329,
+      "desviacion estandar": 10.7113
+    },
+    "42": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.4524,
+      "varianza": 113.3906,
+      "desviacion estandar": 10.6485
+    },
+    "43": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 17.814,
+      "varianza": 116.2445,
+      "desviacion estandar": 10.7817
+    },
+    "44": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.1136,
+      "varianza": 117.4644,
+      "desviacion estandar": 10.8381
+    },
+    "45": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.3556,
+      "varianza": 117.4291,
+      "desviacion estandar": 10.8365
+    },
+    "46": {
+      "frecuencia relativa": 0.0,
+      "valor promedio": 18.3043,
+      "varianza": 114.9943,
+      "desviacion estandar": 10.7235
+    },
+    "47": {
+      "frecuencia relativa": 0.0213,
+      "valor promedio": 17.9149,
+      "varianza": 119.5247,
+      "desviacion estandar": 10.9327
+    },
+    "48": {
+      "frecuencia relativa": 0.0208,
+      "valor promedio": 18.1667,
+      "varianza": 120.0139,
+      "desviacion estandar": 10.9551
+    },
+    "49": {
+      "frecuencia relativa": 0.0204,
+      "valor promedio": 18.2041,
+      "varianza": 117.6318,
+      "desviacion estandar": 10.8458
+    },
+    "50": {
+      "frecuencia relativa": 0.02,
+      "valor promedio": 18.38,
+      "varianza": 116.7956,
+      "desviacion estandar": 10.8072
+    },
+    "51": {
+      "frecuencia relativa": 0.0196,
+      "valor promedio": 18.4118,
+      "varianza": 114.5559,
+      "desviacion estandar": 10.7031
+    },
+    "52": {
+      "frecuencia relativa": 0.0192,
+      "valor promedio": 18.25,
+      "varianza": 113.6875,
+      "desviacion estandar": 10.6624
+    },
+    "53": {
+      "frecuencia relativa": 0.0189,
+      "valor promedio": 18.4717,
+      "varianza": 114.0983,
+      "desviacion estandar": 10.6817
+    },
+    "54": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 18.2407,
+      "varianza": 114.8124,
+      "desviacion estandar": 10.7151
+    },
+    "55": {
+      "frecuencia relativa": 0.0182,
+      "valor promedio": 18.0,
+      "varianza": 115.8545,
+      "desviacion estandar": 10.7636
+    },
+    "56": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 18.25,
+      "varianza": 117.2232,
+      "desviacion estandar": 10.827
+    },
+    "57": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.4737,
+      "varianza": 117.9686,
+      "desviacion estandar": 10.8613
+    },
+    "58": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.6379,
+      "varianza": 117.4724,
+      "desviacion estandar": 10.8385
+    },
+    "59": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.339,
+      "varianza": 120.6648,
+      "desviacion estandar": 10.9848
+    },
+    "60": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.0833,
+      "varianza": 122.5097,
+      "desviacion estandar": 11.0684
+    },
+    "61": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.377,
+      "varianza": 125.6775,
+      "desviacion estandar": 11.2106
+    },
+    "62": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.4032,
+      "varianza": 123.6922,
+      "desviacion estandar": 11.1217
+    },
+    "63": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.5079,
+      "varianza": 122.4087,
+      "desviacion estandar": 11.0638
+    },
+    "64": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.4062,
+      "varianza": 121.1475,
+      "desviacion estandar": 11.0067
+    },
+    "65": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.6462,
+      "varianza": 122.9671,
+      "desviacion estandar": 11.0891
+    },
+    "66": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 18.6364,
+      "varianza": 121.1102,
+      "desviacion estandar": 11.005
+    },
+    "67": {
+      "frecuencia relativa": 0.0149,
+      "valor promedio": 18.791,
+      "varianza": 120.8817,
+      "desviacion estandar": 10.9946
+    },
+    "68": {
+      "frecuencia relativa": 0.0147,
+      "valor promedio": 18.7059,
+      "varianza": 119.59,
+      "desviacion estandar": 10.9357
+    },
+    "69": {
+      "frecuencia relativa": 0.0145,
+      "valor promedio": 18.8696,
+      "varianza": 119.6786,
+      "desviacion estandar": 10.9398
+    },
+    "70": {
+      "frecuencia relativa": 0.0143,
+      "valor promedio": 18.7857,
+      "varianza": 118.4541,
+      "desviacion estandar": 10.8837
+    },
+    "71": {
+      "frecuencia relativa": 0.0141,
+      "valor promedio": 18.6901,
+      "varianza": 117.4251,
+      "desviacion estandar": 10.8363
+    },
+    "72": {
+      "frecuencia relativa": 0.0139,
+      "valor promedio": 18.6111,
+      "varianza": 116.2377,
+      "desviacion estandar": 10.7814
+    },
+    "73": {
+      "frecuencia relativa": 0.0137,
+      "valor promedio": 18.6712,
+      "varianza": 114.9056,
+      "desviacion estandar": 10.7194
+    },
+    "74": {
+      "frecuencia relativa": 0.0135,
+      "valor promedio": 18.8378,
+      "varianza": 115.3791,
+      "desviacion estandar": 10.7415
+    },
+    "75": {
+      "frecuencia relativa": 0.0133,
+      "valor promedio": 18.88,
+      "varianza": 113.9723,
+      "desviacion estandar": 10.6758
+    },
+    "76": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 18.8553,
+      "varianza": 112.5185,
+      "desviacion estandar": 10.6075
+    },
+    "77": {
+      "frecuencia relativa": 0.013,
+      "valor promedio": 18.6364,
+      "varianza": 114.6989,
+      "desviacion estandar": 10.7098
+    },
+    "78": {
+      "frecuencia relativa": 0.0128,
+      "valor promedio": 18.4615,
+      "varianza": 115.5819,
+      "desviacion estandar": 10.7509
+    },
+    "79": {
+      "frecuencia relativa": 0.0127,
+      "valor promedio": 18.6456,
+      "varianza": 116.7605,
+      "desviacion estandar": 10.8056
+    },
+    "80": {
+      "frecuencia relativa": 0.0125,
+      "valor promedio": 18.7875,
+      "varianza": 116.8923,
+      "desviacion estandar": 10.8117
+    },
+    "81": {
+      "frecuencia relativa": 0.0123,
+      "valor promedio": 19.0,
+      "varianza": 119.0617,
+      "desviacion estandar": 10.9115
+    },
+    "82": {
+      "frecuencia relativa": 0.0122,
+      "valor promedio": 18.7927,
+      "varianza": 121.0912,
+      "desviacion estandar": 11.0041
+    },
+    "83": {
+      "frecuencia relativa": 0.012,
+      "valor promedio": 18.8916,
+      "varianza": 120.434,
+      "desviacion estandar": 10.9742
+    },
+    "84": {
+      "frecuencia relativa": 0.0119,
+      "valor promedio": 19.0714,
+      "varianza": 121.6854,
+      "desviacion estandar": 11.0311
+    },
+    "85": {
+      "frecuencia relativa": 0.0118,
+      "valor promedio": 19.2353,
+      "varianza": 122.5093,
+      "desviacion estandar": 11.0684
+    },
+    "86": {
+      "frecuencia relativa": 0.0116,
+      "valor promedio": 19.3721,
+      "varianza": 122.6755,
+      "desviacion estandar": 11.0759
+    },
+    "87": {
+      "frecuencia relativa": 0.0115,
+      "valor promedio": 19.4368,
+      "varianza": 121.6253,
+      "desviacion estandar": 11.0284
+    },
+    "88": {
+      "frecuencia relativa": 0.0114,
+      "valor promedio": 19.5568,
+      "varianza": 121.4968,
+      "desviacion estandar": 11.0226
+    },
+    "89": {
+      "frecuencia relativa": 0.0112,
+      "valor promedio": 19.5843,
+      "varianza": 120.198,
+      "desviacion estandar": 10.9635
+    },
+    "90": {
+      "frecuencia relativa": 0.0111,
+      "valor promedio": 19.7111,
+      "varianza": 120.2943,
+      "desviacion estandar": 10.9679
+    },
+    "91": {
+      "frecuencia relativa": 0.011,
+      "valor promedio": 19.7253,
+      "varianza": 118.9905,
+      "desviacion estandar": 10.9083
+    },
+    "92": {
+      "frecuencia relativa": 0.0109,
+      "valor promedio": 19.6196,
+      "varianza": 118.714,
+      "desviacion estandar": 10.8956
+    },
+    "93": {
+      "frecuencia relativa": 0.0108,
+      "valor promedio": 19.5806,
+      "varianza": 117.5768,
+      "desviacion estandar": 10.8433
+    },
+    "94": {
+      "frecuencia relativa": 0.0106,
+      "valor promedio": 19.617,
+      "varianza": 116.4491,
+      "desviacion estandar": 10.7912
+    },
+    "95": {
+      "frecuencia relativa": 0.0105,
+      "valor promedio": 19.5263,
+      "varianza": 115.9967,
+      "desviacion estandar": 10.7702
+    },
+    "96": {
+      "frecuencia relativa": 0.0208,
+      "valor promedio": 19.3229,
+      "varianza": 118.7186,
+      "desviacion estandar": 10.8958
+    },
+    "97": {
+      "frecuencia relativa": 0.0206,
+      "valor promedio": 19.1856,
+      "varianza": 119.3058,
+      "desviacion estandar": 10.9227
+    },
+    "98": {
+      "frecuencia relativa": 0.0204,
+      "valor promedio": 19.3469,
+      "varianza": 120.6143,
+      "desviacion estandar": 10.9825
+    },
+    "99": {
+      "frecuencia relativa": 0.0202,
+      "valor promedio": 19.3434,
+      "varianza": 119.3972,
+      "desviacion estandar": 10.9269
+    },
+    "100": {
+      "frecuencia relativa": 0.02,
+      "valor promedio": 19.38,
+      "varianza": 118.3356,
+      "desviacion estandar": 10.8782
+    },
+    "101": {
+      "frecuencia relativa": 0.0198,
+      "valor promedio": 19.5149,
+      "varianza": 118.9825,
+      "desviacion estandar": 10.9079
+    },
+    "102": {
+      "frecuencia relativa": 0.0196,
+      "valor promedio": 19.6569,
+      "varianza": 119.8528,
+      "desviacion estandar": 10.9477
+    },
+    "103": {
+      "frecuencia relativa": 0.0194,
+      "valor promedio": 19.5728,
+      "varianza": 119.4097,
+      "desviacion estandar": 10.9275
+    },
+    "104": {
+      "frecuencia relativa": 0.0192,
+      "valor promedio": 19.4038,
+      "varianza": 121.2023,
+      "desviacion estandar": 11.0092
+    },
+    "105": {
+      "frecuencia relativa": 0.019,
+      "valor promedio": 19.2762,
+      "varianza": 121.7428,
+      "desviacion estandar": 11.0337
+    },
+    "106": {
+      "frecuencia relativa": 0.0189,
+      "valor promedio": 19.3396,
+      "varianza": 121.0167,
+      "desviacion estandar": 11.0008
+    },
+    "107": {
+      "frecuencia relativa": 0.0187,
+      "valor promedio": 19.4673,
+      "varianza": 121.6134,
+      "desviacion estandar": 11.0278
+    },
+    "108": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 19.4074,
+      "varianza": 120.8711,
+      "desviacion estandar": 10.9941
+    },
+    "109": {
+      "frecuencia relativa": 0.0183,
+      "valor promedio": 19.4312,
+      "varianza": 119.8232,
+      "desviacion estandar": 10.9464
+    },
+    "110": {
+      "frecuencia relativa": 0.0182,
+      "valor promedio": 19.4727,
+      "varianza": 118.922,
+      "desviacion estandar": 10.9051
+    },
+    "111": {
+      "frecuencia relativa": 0.018,
+      "valor promedio": 19.3063,
+      "varianza": 120.8972,
+      "desviacion estandar": 10.9953
+    },
+    "112": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 19.2857,
+      "varianza": 119.8648,
+      "desviacion estandar": 10.9483
+    },
+    "113": {
+      "frecuencia relativa": 0.0177,
+      "valor promedio": 19.3451,
+      "varianza": 119.1995,
+      "desviacion estandar": 10.9179
+    },
+    "114": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 19.4035,
+      "varianza": 118.5389,
+      "desviacion estandar": 10.8876
+    },
+    "115": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 19.4696,
+      "varianza": 118.0056,
+      "desviacion estandar": 10.863
+    },
+    "116": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 19.5862,
+      "varianza": 118.5529,
+      "desviacion estandar": 10.8882
+    },
+    "117": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 19.5812,
+      "varianza": 117.5426,
+      "desviacion estandar": 10.8417
+    },
+    "118": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 19.6525,
+      "varianza": 117.142,
+      "desviacion estandar": 10.8232
+    },
+    "119": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 19.6303,
+      "varianza": 116.2162,
+      "desviacion estandar": 10.7804
+    },
+    "120": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 19.75,
+      "varianza": 116.9542,
+      "desviacion estandar": 10.8145
+    },
+    "121": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 19.6529,
+      "varianza": 117.1192,
+      "desviacion estandar": 10.8222
+    },
+    "122": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 19.6803,
+      "varianza": 116.2503,
+      "desviacion estandar": 10.7819
+    },
+    "123": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 19.7317,
+      "varianza": 115.6272,
+      "desviacion estandar": 10.753
+    },
+    "124": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 19.8548,
+      "varianza": 116.5596,
+      "desviacion estandar": 10.7963
+    },
+    "125": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 19.816,
+      "varianza": 115.8141,
+      "desviacion estandar": 10.7617
+    },
+    "126": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 19.9286,
+      "varianza": 116.479,
+      "desviacion estandar": 10.7925
+    },
+    "127": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 19.8819,
+      "varianza": 115.8364,
+      "desviacion estandar": 10.7627
+    },
+    "128": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 19.8047,
+      "varianza": 115.6884,
+      "desviacion estandar": 10.7559
+    },
+    "129": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 19.6667,
+      "varianza": 117.23,
+      "desviacion estandar": 10.8273
+    },
+    "130": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 19.5231,
+      "varianza": 118.9879,
+      "desviacion estandar": 10.9082
+    },
+    "131": {
+      "frecuencia relativa": 0.0153,
+      "valor promedio": 19.5115,
+      "varianza": 118.0972,
+      "desviacion estandar": 10.8673
+    },
+    "132": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 19.4015,
+      "varianza": 118.7858,
+      "desviacion estandar": 10.8989
+    },
+    "133": {
+      "frecuencia relativa": 0.015,
+      "valor promedio": 19.4211,
+      "varianza": 117.943,
+      "desviacion estandar": 10.8602
+    },
+    "134": {
+      "frecuencia relativa": 0.0149,
+      "valor promedio": 19.3209,
+      "varianza": 118.397,
+      "desviacion estandar": 10.881
+    },
+    "135": {
+      "frecuencia relativa": 0.0148,
+      "valor promedio": 19.3333,
+      "varianza": 117.5407,
+      "desviacion estandar": 10.8416
+    },
+    "136": {
+      "frecuencia relativa": 0.0147,
+      "valor promedio": 19.3235,
+      "varianza": 116.6894,
+      "desviacion estandar": 10.8023
+    },
+    "137": {
+      "frecuencia relativa": 0.0146,
+      "valor promedio": 19.2847,
+      "varianza": 116.043,
+      "desviacion estandar": 10.7723
+    },
+    "138": {
+      "frecuencia relativa": 0.0145,
+      "valor promedio": 19.2464,
+      "varianza": 115.4031,
+      "desviacion estandar": 10.7426
+    },
+    "139": {
+      "frecuencia relativa": 0.0144,
+      "valor promedio": 19.2878,
+      "varianza": 114.8093,
+      "desviacion estandar": 10.7149
+    },
+    "140": {
+      "frecuencia relativa": 0.0143,
+      "valor promedio": 19.3143,
+      "varianza": 114.0869,
+      "desviacion estandar": 10.6811
+    },
+    "141": {
+      "frecuencia relativa": 0.0142,
+      "valor promedio": 19.2553,
+      "varianza": 113.7646,
+      "desviacion estandar": 10.666
+    },
+    "142": {
+      "frecuencia relativa": 0.0141,
+      "valor promedio": 19.3239,
+      "varianza": 113.6275,
+      "desviacion estandar": 10.6596
+    },
+    "143": {
+      "frecuencia relativa": 0.014,
+      "valor promedio": 19.3147,
+      "varianza": 112.845,
+      "desviacion estandar": 10.6229
+    },
+    "144": {
+      "frecuencia relativa": 0.0139,
+      "valor promedio": 19.2014,
+      "varianza": 113.8969,
+      "desviacion estandar": 10.6722
+    },
+    "145": {
+      "frecuencia relativa": 0.0138,
+      "valor promedio": 19.1931,
+      "varianza": 113.1213,
+      "desviacion estandar": 10.6358
+    },
+    "146": {
+      "frecuencia relativa": 0.0137,
+      "valor promedio": 19.2397,
+      "varianza": 112.6617,
+      "desviacion estandar": 10.6142
+    },
+    "147": {
+      "frecuencia relativa": 0.0136,
+      "valor promedio": 19.3401,
+      "varianza": 113.3673,
+      "desviacion estandar": 10.6474
+    },
+    "148": {
+      "frecuencia relativa": 0.0135,
+      "valor promedio": 19.3243,
+      "varianza": 112.6381,
+      "desviacion estandar": 10.6131
+    },
+    "149": {
+      "frecuencia relativa": 0.0134,
+      "valor promedio": 19.255,
+      "varianza": 112.5927,
+      "desviacion estandar": 10.611
+    },
+    "150": {
+      "frecuencia relativa": 0.0133,
+      "valor promedio": 19.1333,
+      "varianza": 114.0489,
+      "desviacion estandar": 10.6794
+    },
+    "151": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 19.053,
+      "varianza": 114.2621,
+      "desviacion estandar": 10.6893
+    },
+    "152": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 18.9474,
+      "varianza": 115.1946,
+      "desviacion estandar": 10.7329
+    },
+    "153": {
+      "frecuencia relativa": 0.0131,
+      "valor promedio": 19.0131,
+      "varianza": 115.0979,
+      "desviacion estandar": 10.7284
+    },
+    "154": {
+      "frecuencia relativa": 0.013,
+      "valor promedio": 18.9675,
+      "varianza": 114.6678,
+      "desviacion estandar": 10.7083
+    },
+    "155": {
+      "frecuencia relativa": 0.0129,
+      "valor promedio": 19.0323,
+      "varianza": 114.5732,
+      "desviacion estandar": 10.7039
+    },
+    "156": {
+      "frecuencia relativa": 0.0128,
+      "valor promedio": 19.1474,
+      "varianza": 115.8949,
+      "desviacion estandar": 10.7654
+    },
+    "157": {
+      "frecuencia relativa": 0.0127,
+      "valor promedio": 19.2548,
+      "varianza": 116.9542,
+      "desviacion estandar": 10.8145
+    },
+    "158": {
+      "frecuencia relativa": 0.0127,
+      "valor promedio": 19.1519,
+      "varianza": 117.8757,
+      "desviacion estandar": 10.8571
+    },
+    "159": {
+      "frecuencia relativa": 0.0126,
+      "valor promedio": 19.1447,
+      "varianza": 117.1426,
+      "desviacion estandar": 10.8232
+    },
+    "160": {
+      "frecuencia relativa": 0.0187,
+      "valor promedio": 19.025,
+      "varianza": 118.6869,
+      "desviacion estandar": 10.8944
+    },
+    "161": {
+      "frecuencia relativa": 0.0186,
+      "valor promedio": 18.9565,
+      "varianza": 118.7,
+      "desviacion estandar": 10.895
+    },
+    "162": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 18.8642,
+      "varianza": 119.3396,
+      "desviacion estandar": 10.9243
+    },
+    "163": {
+      "frecuencia relativa": 0.0184,
+      "valor promedio": 18.8528,
+      "varianza": 118.6286,
+      "desviacion estandar": 10.8917
+    },
+    "164": {
+      "frecuencia relativa": 0.0183,
+      "valor promedio": 18.7683,
+      "varianza": 119.0683,
+      "desviacion estandar": 10.9118
+    },
+    "165": {
+      "frecuencia relativa": 0.0182,
+      "valor promedio": 18.7697,
+      "varianza": 118.347,
+      "desviacion estandar": 10.8787
+    },
+    "166": {
+      "frecuencia relativa": 0.0181,
+      "valor promedio": 18.6928,
+      "varianza": 118.6104,
+      "desviacion estandar": 10.8908
+    },
+    "167": {
+      "frecuencia relativa": 0.018,
+      "valor promedio": 18.6048,
+      "varianza": 119.1851,
+      "desviacion estandar": 10.9172
+    },
+    "168": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 18.6964,
+      "varianza": 119.8781,
+      "desviacion estandar": 10.9489
+    },
+    "169": {
+      "frecuencia relativa": 0.0178,
+      "valor promedio": 18.7811,
+      "varianza": 120.3722,
+      "desviacion estandar": 10.9714
+    },
+    "170": {
+      "frecuencia relativa": 0.0176,
+      "valor promedio": 18.7824,
+      "varianza": 119.6644,
+      "desviacion estandar": 10.9391
+    },
+    "171": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.8713,
+      "varianza": 120.3109,
+      "desviacion estandar": 10.9686
+    },
+    "172": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.9302,
+      "varianza": 120.2044,
+      "desviacion estandar": 10.9638
+    },
+    "173": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.8555,
+      "varianza": 120.4704,
+      "desviacion estandar": 10.9759
+    },
+    "174": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.7529,
+      "varianza": 121.5998,
+      "desviacion estandar": 11.0272
+    },
+    "175": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 18.8229,
+      "varianza": 121.7572,
+      "desviacion estandar": 11.0344
+    },
+    "176": {
+      "frecuencia relativa": 0.017,
+      "valor promedio": 18.875,
+      "varianza": 121.5412,
+      "desviacion estandar": 11.0246
+    },
+    "177": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.7797,
+      "varianza": 122.4543,
+      "desviacion estandar": 11.0659
+    },
+    "178": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.7921,
+      "varianza": 121.7939,
+      "desviacion estandar": 11.036
+    },
+    "179": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 18.8659,
+      "varianza": 122.0826,
+      "desviacion estandar": 11.0491
+    },
+    "180": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.9556,
+      "varianza": 122.8425,
+      "desviacion estandar": 11.0834
+    },
+    "181": {
+      "frecuencia relativa": 0.0166,
+      "valor promedio": 19.0276,
+      "varianza": 123.0987,
+      "desviacion estandar": 11.095
+    },
+    "182": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 19.0769,
+      "varianza": 122.8622,
+      "desviacion estandar": 11.0843
+    },
+    "183": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 19.0546,
+      "varianza": 122.2812,
+      "desviacion estandar": 11.0581
+    },
+    "184": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.9728,
+      "varianza": 122.8417,
+      "desviacion estandar": 11.0834
+    },
+    "185": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 19.0108,
+      "varianza": 122.4431,
+      "desviacion estandar": 11.0654
+    },
+    "186": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.9946,
+      "varianza": 121.8333,
+      "desviacion estandar": 11.0378
+    },
+    "187": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 19.0856,
+      "varianza": 122.72,
+      "desviacion estandar": 11.0779
+    },
+    "188": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 19.0745,
+      "varianza": 122.0902,
+      "desviacion estandar": 11.0494
+    },
+    "189": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 19.0582,
+      "varianza": 121.494,
+      "desviacion estandar": 11.0224
+    },
+    "190": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.9789,
+      "varianza": 122.0417,
+      "desviacion estandar": 11.0472
+    },
+    "191": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.9634,
+      "varianza": 121.4489,
+      "desviacion estandar": 11.0204
+    },
+    "192": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 19.0521,
+      "varianza": 122.3202,
+      "desviacion estandar": 11.0598
+    },
+    "193": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 19.114,
+      "varianza": 122.4222,
+      "desviacion estandar": 11.0645
+    },
+    "194": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 19.0464,
+      "varianza": 122.6731,
+      "desviacion estandar": 11.0758
+    },
+    "195": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 19.1128,
+      "varianza": 122.9001,
+      "desviacion estandar": 11.086
+    },
+    "196": {
+      "frecuencia relativa": 0.0153,
+      "valor promedio": 19.1429,
+      "varianza": 122.449,
+      "desviacion estandar": 11.0657
+    },
+    "197": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 19.203,
+      "varianza": 122.5375,
+      "desviacion estandar": 11.0697
+    },
+    "198": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 19.2374,
+      "varianza": 122.1507,
+      "desviacion estandar": 11.0522
+    },
+    "199": {
+      "frecuencia relativa": 0.0151,
+      "valor promedio": 19.1608,
+      "varianza": 122.6978,
+      "desviacion estandar": 11.0769
+    },
+    "200": {
+      "frecuencia relativa": 0.015,
+      "valor promedio": 19.13,
+      "varianza": 122.2731,
+      "desviacion estandar": 11.0577
+    },
+    "201": {
+      "frecuencia relativa": 0.0149,
+      "valor promedio": 19.1443,
+      "varianza": 121.7056,
+      "desviacion estandar": 11.032
+    },
+    "202": {
+      "frecuencia relativa": 0.0149,
+      "valor promedio": 19.1584,
+      "varianza": 121.1432,
+      "desviacion estandar": 11.0065
+    },
+    "203": {
+      "frecuencia relativa": 0.0148,
+      "valor promedio": 19.0788,
+      "varianza": 121.8263,
+      "desviacion estandar": 11.0375
+    },
+    "204": {
+      "frecuencia relativa": 0.0147,
+      "valor promedio": 19.1667,
+      "varianza": 122.7958,
+      "desviacion estandar": 11.0813
+    },
+    "205": {
+      "frecuencia relativa": 0.0146,
+      "valor promedio": 19.0878,
+      "varianza": 123.4655,
+      "desviacion estandar": 11.1115
+    },
+    "206": {
+      "frecuencia relativa": 0.0146,
+      "valor promedio": 19.0,
+      "varianza": 124.4466,
+      "desviacion estandar": 11.1556
+    },
+    "207": {
+      "frecuencia relativa": 0.0145,
+      "valor promedio": 19.0,
+      "varianza": 123.8454,
+      "desviacion estandar": 11.1286
+    },
+    "208": {
+      "frecuencia relativa": 0.0144,
+      "valor promedio": 18.9423,
+      "varianza": 123.939,
+      "desviacion estandar": 11.1328
+    },
+    "209": {
+      "frecuencia relativa": 0.0144,
+      "valor promedio": 18.9139,
+      "varianza": 123.5141,
+      "desviacion estandar": 11.1137
+    },
+    "210": {
+      "frecuencia relativa": 0.0143,
+      "valor promedio": 18.9857,
+      "varianza": 124.0046,
+      "desviacion estandar": 11.1357
+    },
+    "211": {
+      "frecuencia relativa": 0.0142,
+      "valor promedio": 18.9147,
+      "varianza": 124.4761,
+      "desviacion estandar": 11.1569
+    },
+    "212": {
+      "frecuencia relativa": 0.0142,
+      "valor promedio": 18.934,
+      "varianza": 123.9673,
+      "desviacion estandar": 11.1341
+    },
+    "213": {
+      "frecuencia relativa": 0.0141,
+      "valor promedio": 18.8638,
+      "varianza": 124.4275,
+      "desviacion estandar": 11.1547
+    },
+    "214": {
+      "frecuencia relativa": 0.014,
+      "valor promedio": 18.8037,
+      "varianza": 124.6157,
+      "desviacion estandar": 11.1631
+    },
+    "215": {
+      "frecuencia relativa": 0.014,
+      "valor promedio": 18.8791,
+      "varianza": 125.2505,
+      "desviacion estandar": 11.1915
+    },
+    "216": {
+      "frecuencia relativa": 0.0139,
+      "valor promedio": 18.9398,
+      "varianza": 125.464,
+      "desviacion estandar": 11.2011
+    },
+    "217": {
+      "frecuencia relativa": 0.0138,
+      "valor promedio": 18.8848,
+      "varianza": 125.5397,
+      "desviacion estandar": 11.2045
+    },
+    "218": {
+      "frecuencia relativa": 0.0138,
+      "valor promedio": 18.8532,
+      "varianza": 125.1803,
+      "desviacion estandar": 11.1884
+    },
+    "219": {
+      "frecuencia relativa": 0.0137,
+      "valor promedio": 18.8311,
+      "varianza": 124.7157,
+      "desviacion estandar": 11.1676
+    },
+    "220": {
+      "frecuencia relativa": 0.0136,
+      "valor promedio": 18.8682,
+      "varianza": 124.4508,
+      "desviacion estandar": 11.1558
+    },
+    "221": {
+      "frecuencia relativa": 0.0136,
+      "valor promedio": 18.8281,
+      "varianza": 124.2419,
+      "desviacion estandar": 11.1464
+    },
+    "222": {
+      "frecuencia relativa": 0.0135,
+      "valor promedio": 18.8333,
+      "varianza": 123.6884,
+      "desviacion estandar": 11.1215
+    },
+    "223": {
+      "frecuencia relativa": 0.0135,
+      "valor promedio": 18.7982,
+      "varianza": 123.4077,
+      "desviacion estandar": 11.1089
+    },
+    "224": {
+      "frecuencia relativa": 0.0134,
+      "valor promedio": 18.7545,
+      "varianza": 123.2835,
+      "desviacion estandar": 11.1033
+    },
+    "225": {
+      "frecuencia relativa": 0.0133,
+      "valor promedio": 18.7689,
+      "varianza": 122.7821,
+      "desviacion estandar": 11.0807
+    },
+    "226": {
+      "frecuencia relativa": 0.0133,
+      "valor promedio": 18.7168,
+      "varianza": 122.849,
+      "desviacion estandar": 11.0837
+    },
+    "227": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 18.7004,
+      "varianza": 122.3684,
+      "desviacion estandar": 11.062
+    },
+    "228": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 18.7368,
+      "varianza": 122.1325,
+      "desviacion estandar": 11.0514
+    },
+    "229": {
+      "frecuencia relativa": 0.0131,
+      "valor promedio": 18.69,
+      "varianza": 122.1004,
+      "desviacion estandar": 11.0499
+    },
+    "230": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.6087,
+      "varianza": 123.0817,
+      "desviacion estandar": 11.0942
+    },
+    "231": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.5411,
+      "varianza": 123.599,
+      "desviacion estandar": 11.1175
+    },
+    "232": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.4828,
+      "varianza": 123.8532,
+      "desviacion estandar": 11.1289
+    },
+    "233": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.4206,
+      "varianza": 124.2179,
+      "desviacion estandar": 11.1453
+    },
+    "234": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 18.3718,
+      "varianza": 124.2421,
+      "desviacion estandar": 11.1464
+    },
+    "235": {
+      "frecuencia relativa": 0.017,
+      "valor promedio": 18.3362,
+      "varianza": 124.0104,
+      "desviacion estandar": 11.136
+    },
+    "236": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.339,
+      "varianza": 123.4868,
+      "desviacion estandar": 11.1125
+    },
+    "237": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.3924,
+      "varianza": 123.6393,
+      "desviacion estandar": 11.1193
+    },
+    "238": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 18.3235,
+      "varianza": 124.2441,
+      "desviacion estandar": 11.1465
+    },
+    "239": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.2887,
+      "varianza": 124.0129,
+      "desviacion estandar": 11.1361
+    },
+    "240": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.3292,
+      "varianza": 123.8875,
+      "desviacion estandar": 11.1305
+    },
+    "241": {
+      "frecuencia relativa": 0.0166,
+      "valor promedio": 18.3485,
+      "varianza": 123.4636,
+      "desviacion estandar": 11.1114
+    },
+    "242": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.3843,
+      "varianza": 123.2614,
+      "desviacion estandar": 11.1023
+    },
+    "243": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.3745,
+      "varianza": 122.7775,
+      "desviacion estandar": 11.0805
+    },
+    "244": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.377,
+      "varianza": 122.2759,
+      "desviacion estandar": 11.0578
+    },
+    "245": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.4122,
+      "varianza": 122.079,
+      "desviacion estandar": 11.0489
+    },
+    "246": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.3943,
+      "varianza": 121.6616,
+      "desviacion estandar": 11.03
+    },
+    "247": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 18.4494,
+      "varianza": 121.9155,
+      "desviacion estandar": 11.0415
+    },
+    "248": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.5202,
+      "varianza": 122.6609,
+      "desviacion estandar": 11.0752
+    },
+    "249": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.4578,
+      "varianza": 123.1318,
+      "desviacion estandar": 11.0965
+    },
+    "250": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 18.436,
+      "varianza": 122.7579,
+      "desviacion estandar": 11.0796
+    },
+    "251": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.4701,
+      "varianza": 122.5599,
+      "desviacion estandar": 11.0707
+    },
+    "252": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.4841,
+      "varianza": 122.1228,
+      "desviacion estandar": 11.0509
+    },
+    "253": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.4743,
+      "varianza": 121.6644,
+      "desviacion estandar": 11.0302
+    },
+    "254": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.5,
+      "varianza": 121.3524,
+      "desviacion estandar": 11.016
+    },
+    "255": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.5059,
+      "varianza": 120.8853,
+      "desviacion estandar": 10.9948
+    },
+    "256": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.4375,
+      "varianza": 121.6055,
+      "desviacion estandar": 11.0275
+    },
+    "257": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.3891,
+      "varianza": 121.7319,
+      "desviacion estandar": 11.0332
+    },
+    "258": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 18.3876,
+      "varianza": 121.2606,
+      "desviacion estandar": 11.0118
+    },
+    "259": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.4324,
+      "varianza": 121.3111,
+      "desviacion estandar": 11.0141
+    },
+    "260": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.4846,
+      "varianza": 121.5498,
+      "desviacion estandar": 11.025
+    },
+    "261": {
+      "frecuencia relativa": 0.0153,
+      "valor promedio": 18.4828,
+      "varianza": 121.085,
+      "desviacion estandar": 11.0039
+    },
+    "262": {
+      "frecuencia relativa": 0.0153,
+      "valor promedio": 18.4656,
+      "varianza": 120.6992,
+      "desviacion estandar": 10.9863
+    },
+    "263": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 18.4867,
+      "varianza": 120.3563,
+      "desviacion estandar": 10.9707
+    },
+    "264": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 18.4735,
+      "varianza": 119.9463,
+      "desviacion estandar": 10.952
+    },
+    "265": {
+      "frecuencia relativa": 0.0151,
+      "valor promedio": 18.5208,
+      "varianza": 120.0835,
+      "desviacion estandar": 10.9583
+    },
+    "266": {
+      "frecuencia relativa": 0.015,
+      "valor promedio": 18.5902,
+      "varianza": 120.911,
+      "desviacion estandar": 10.996
+    },
+    "267": {
+      "frecuencia relativa": 0.015,
+      "valor promedio": 18.6142,
+      "varianza": 120.6115,
+      "desviacion estandar": 10.9823
+    },
+    "268": {
+      "frecuencia relativa": 0.0149,
+      "valor promedio": 18.6754,
+      "varianza": 121.1595,
+      "desviacion estandar": 11.0072
+    },
+    "269": {
+      "frecuencia relativa": 0.0149,
+      "valor promedio": 18.6729,
+      "varianza": 120.7108,
+      "desviacion estandar": 10.9868
+    },
+    "270": {
+      "frecuencia relativa": 0.0148,
+      "valor promedio": 18.7222,
+      "varianza": 120.9191,
+      "desviacion estandar": 10.9963
+    },
+    "271": {
+      "frecuencia relativa": 0.0148,
+      "valor promedio": 18.7786,
+      "varianza": 121.3311,
+      "desviacion estandar": 11.015
+    },
+    "272": {
+      "frecuencia relativa": 0.0147,
+      "valor promedio": 18.7132,
+      "varianza": 122.0428,
+      "desviacion estandar": 11.0473
+    },
+    "273": {
+      "frecuencia relativa": 0.0147,
+      "valor promedio": 18.7546,
+      "varianza": 122.0606,
+      "desviacion estandar": 11.0481
+    },
+    "274": {
+      "frecuencia relativa": 0.0146,
+      "valor promedio": 18.7701,
+      "varianza": 121.6807,
+      "desviacion estandar": 11.0309
+    },
+    "275": {
+      "frecuencia relativa": 0.0145,
+      "valor promedio": 18.8,
+      "varianza": 121.4836,
+      "desviacion estandar": 11.022
+    },
+    "276": {
+      "frecuencia relativa": 0.0145,
+      "valor promedio": 18.7645,
+      "varianza": 121.3902,
+      "desviacion estandar": 11.0177
+    },
+    "277": {
+      "frecuencia relativa": 0.0144,
+      "valor promedio": 18.7401,
+      "varianza": 121.1166,
+      "desviacion estandar": 11.0053
+    },
+    "278": {
+      "frecuencia relativa": 0.0144,
+      "valor promedio": 18.7698,
+      "varianza": 120.9254,
+      "desviacion estandar": 10.9966
+    },
+    "279": {
+      "frecuencia relativa": 0.0143,
+      "valor promedio": 18.8065,
+      "varianza": 120.8658,
+      "desviacion estandar": 10.9939
+    },
+    "280": {
+      "frecuencia relativa": 0.0143,
+      "valor promedio": 18.7857,
+      "varianza": 120.5541,
+      "desviacion estandar": 10.9797
+    },
+    "281": {
+      "frecuencia relativa": 0.0142,
+      "valor promedio": 18.8221,
+      "varianza": 120.495,
+      "desviacion estandar": 10.977
+    },
+    "282": {
+      "frecuencia relativa": 0.0142,
+      "valor promedio": 18.8333,
+      "varianza": 120.1034,
+      "desviacion estandar": 10.9592
+    },
+    "283": {
+      "frecuencia relativa": 0.0141,
+      "valor promedio": 18.8481,
+      "varianza": 119.7402,
+      "desviacion estandar": 10.9426
+    },
+    "284": {
+      "frecuencia relativa": 0.0141,
+      "valor promedio": 18.8979,
+      "varianza": 120.0213,
+      "desviacion estandar": 10.9554
+    },
+    "285": {
+      "frecuencia relativa": 0.014,
+      "valor promedio": 18.8526,
+      "varianza": 120.1818,
+      "desviacion estandar": 10.9627
+    },
+    "286": {
+      "frecuencia relativa": 0.014,
+      "valor promedio": 18.8741,
+      "varianza": 119.8932,
+      "desviacion estandar": 10.9496
+    },
+    "287": {
+      "frecuencia relativa": 0.0139,
+      "valor promedio": 18.9199,
+      "varianza": 120.0737,
+      "desviacion estandar": 10.9578
+    },
+    "288": {
+      "frecuencia relativa": 0.0139,
+      "valor promedio": 18.9618,
+      "varianza": 120.1617,
+      "desviacion estandar": 10.9618
+    },
+    "289": {
+      "frecuencia relativa": 0.0138,
+      "valor promedio": 18.9896,
+      "varianza": 119.9688,
+      "desviacion estandar": 10.953
+    },
+    "290": {
+      "frecuencia relativa": 0.0138,
+      "valor promedio": 18.9931,
+      "varianza": 119.5586,
+      "desviacion estandar": 10.9343
+    },
+    "291": {
+      "frecuencia relativa": 0.0137,
+      "valor promedio": 19.0275,
+      "varianza": 119.4907,
+      "desviacion estandar": 10.9312
+    },
+    "292": {
+      "frecuencia relativa": 0.0137,
+      "valor promedio": 19.0616,
+      "varianza": 119.4209,
+      "desviacion estandar": 10.928
+    },
+    "293": {
+      "frecuencia relativa": 0.0137,
+      "valor promedio": 19.0171,
+      "varianza": 119.5936,
+      "desviacion estandar": 10.9359
+    },
+    "294": {
+      "frecuencia relativa": 0.0136,
+      "valor promedio": 18.9694,
+      "varianza": 119.8528,
+      "desviacion estandar": 10.9477
+    },
+    "295": {
+      "frecuencia relativa": 0.0136,
+      "valor promedio": 18.9186,
+      "varianza": 120.2036,
+      "desviacion estandar": 10.9637
+    },
+    "296": {
+      "frecuencia relativa": 0.0135,
+      "valor promedio": 18.9426,
+      "varianza": 119.9663,
+      "desviacion estandar": 10.9529
+    },
+    "297": {
+      "frecuencia relativa": 0.0135,
+      "valor promedio": 18.9764,
+      "varianza": 119.9018,
+      "desviacion estandar": 10.95
+    },
+    "298": {
+      "frecuencia relativa": 0.0134,
+      "valor promedio": 18.9497,
+      "varianza": 119.7122,
+      "desviacion estandar": 10.9413
+    },
+    "299": {
+      "frecuencia relativa": 0.0134,
+      "valor promedio": 18.9365,
+      "varianza": 119.3639,
+      "desviacion estandar": 10.9254
+    },
+    "300": {
+      "frecuencia relativa": 0.0133,
+      "valor promedio": 18.9333,
+      "varianza": 118.9689,
+      "desviacion estandar": 10.9073
+    },
+    "301": {
+      "frecuencia relativa": 0.0133,
+      "valor promedio": 18.9336,
+      "varianza": 118.5737,
+      "desviacion estandar": 10.8892
+    },
+    "302": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 18.9172,
+      "varianza": 118.2614,
+      "desviacion estandar": 10.8748
+    },
+    "303": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 18.8845,
+      "varianza": 118.1946,
+      "desviacion estandar": 10.8717
+    },
+    "304": {
+      "frecuencia relativa": 0.0132,
+      "valor promedio": 18.8882,
+      "varianza": 117.8099,
+      "desviacion estandar": 10.854
+    },
+    "305": {
+      "frecuencia relativa": 0.0131,
+      "valor promedio": 18.9475,
+      "varianza": 118.4956,
+      "desviacion estandar": 10.8856
+    },
+    "306": {
+      "frecuencia relativa": 0.0131,
+      "valor promedio": 18.9477,
+      "varianza": 118.1084,
+      "desviacion estandar": 10.8678
+    },
+    "307": {
+      "frecuencia relativa": 0.013,
+      "valor promedio": 18.9739,
+      "varianza": 117.9342,
+      "desviacion estandar": 10.8598
+    },
+    "308": {
+      "frecuencia relativa": 0.013,
+      "valor promedio": 19.0032,
+      "varianza": 117.8149,
+      "desviacion estandar": 10.8543
+    },
+    "309": {
+      "frecuencia relativa": 0.0129,
+      "valor promedio": 19.0162,
+      "varianza": 117.4852,
+      "desviacion estandar": 10.8391
+    },
+    "310": {
+      "frecuencia relativa": 0.0129,
+      "valor promedio": 18.9774,
+      "varianza": 117.5705,
+      "desviacion estandar": 10.843
+    },
+    "311": {
+      "frecuencia relativa": 0.0129,
+      "valor promedio": 18.9936,
+      "varianza": 117.2733,
+      "desviacion estandar": 10.8293
+    },
+    "312": {
+      "frecuencia relativa": 0.0128,
+      "valor promedio": 19.0417,
+      "varianza": 117.6169,
+      "desviacion estandar": 10.8451
+    },
+    "313": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 18.9808,
+      "varianza": 118.3958,
+      "desviacion estandar": 10.881
+    },
+    "314": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.9459,
+      "varianza": 118.4015,
+      "desviacion estandar": 10.8812
+    },
+    "315": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.9778,
+      "varianza": 118.3455,
+      "desviacion estandar": 10.8787
+    },
+    "316": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 19.0032,
+      "varianza": 118.174,
+      "desviacion estandar": 10.8708
+    },
+    "317": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 19.0221,
+      "varianza": 117.9143,
+      "desviacion estandar": 10.8588
+    },
+    "318": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.9843,
+      "varianza": 117.9966,
+      "desviacion estandar": 10.8626
+    },
+    "319": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 19.0251,
+      "varianza": 118.1561,
+      "desviacion estandar": 10.87
+    },
+    "320": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 19.0594,
+      "varianza": 118.1621,
+      "desviacion estandar": 10.8702
+    },
+    "321": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 19.0405,
+      "varianza": 117.908,
+      "desviacion estandar": 10.8585
+    },
+    "322": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 19.0342,
+      "varianza": 117.5547,
+      "desviacion estandar": 10.8423
+    },
+    "323": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 19.0526,
+      "varianza": 117.3006,
+      "desviacion estandar": 10.8305
+    },
+    "324": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 19.0988,
+      "varianza": 117.626,
+      "desviacion estandar": 10.8456
+    },
+    "325": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 19.0554,
+      "varianza": 117.8739,
+      "desviacion estandar": 10.857
+    },
+    "326": {
+      "frecuencia relativa": 0.0153,
+      "valor promedio": 19.0521,
+      "varianza": 117.5157,
+      "desviacion estandar": 10.8405
+    },
+    "327": {
+      "frecuencia relativa": 0.0153,
+      "valor promedio": 19.0642,
+      "varianza": 117.2038,
+      "desviacion estandar": 10.8261
+    },
+    "328": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 19.0762,
+      "varianza": 116.8936,
+      "desviacion estandar": 10.8117
+    },
+    "329": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 19.0304,
+      "varianza": 117.227,
+      "desviacion estandar": 10.8271
+    },
+    "330": {
+      "frecuencia relativa": 0.0152,
+      "valor promedio": 19.0485,
+      "varianza": 116.9795,
+      "desviacion estandar": 10.8157
+    },
+    "331": {
+      "frecuencia relativa": 0.0181,
+      "valor promedio": 18.9909,
+      "varianza": 117.719,
+      "desviacion estandar": 10.8498
+    },
+    "332": {
+      "frecuencia relativa": 0.0181,
+      "valor promedio": 18.991,
+      "varianza": 117.3644,
+      "desviacion estandar": 10.8335
+    },
+    "333": {
+      "frecuencia relativa": 0.018,
+      "valor promedio": 18.9429,
+      "varianza": 117.7775,
+      "desviacion estandar": 10.8525
+    },
+    "334": {
+      "frecuencia relativa": 0.018,
+      "valor promedio": 18.988,
+      "varianza": 118.1017,
+      "desviacion estandar": 10.8675
+    },
+    "335": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 18.9642,
+      "varianza": 117.939,
+      "desviacion estandar": 10.86
+    },
+    "336": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 18.9137,
+      "varianza": 118.442,
+      "desviacion estandar": 10.8831
+    },
+    "337": {
+      "frecuencia relativa": 0.0178,
+      "valor promedio": 18.9555,
+      "varianza": 118.6775,
+      "desviacion estandar": 10.8939
+    },
+    "338": {
+      "frecuencia relativa": 0.0178,
+      "valor promedio": 18.926,
+      "varianza": 118.6188,
+      "desviacion estandar": 10.8912
+    },
+    "339": {
+      "frecuencia relativa": 0.0177,
+      "valor promedio": 18.941,
+      "varianza": 118.3446,
+      "desviacion estandar": 10.8786
+    },
+    "340": {
+      "frecuencia relativa": 0.0176,
+      "valor promedio": 18.8971,
+      "varianza": 118.6512,
+      "desviacion estandar": 10.8927
+    },
+    "341": {
+      "frecuencia relativa": 0.0176,
+      "valor promedio": 18.9238,
+      "varianza": 118.5455,
+      "desviacion estandar": 10.8879
+    },
+    "342": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.9035,
+      "varianza": 118.3386,
+      "desviacion estandar": 10.8784
+    },
+    "343": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.9125,
+      "varianza": 118.0215,
+      "desviacion estandar": 10.8638
+    },
+    "344": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.9099,
+      "varianza": 117.6808,
+      "desviacion estandar": 10.8481
+    },
+    "345": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.9333,
+      "varianza": 117.5289,
+      "desviacion estandar": 10.8411
+    },
+    "346": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.9855,
+      "varianza": 118.1298,
+      "desviacion estandar": 10.8688
+    },
+    "347": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.9769,
+      "varianza": 117.815,
+      "desviacion estandar": 10.8543
+    },
+    "348": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.9224,
+      "varianza": 118.5083,
+      "desviacion estandar": 10.8862
+    },
+    "349": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.9312,
+      "varianza": 118.1958,
+      "desviacion estandar": 10.8718
+    },
+    "350": {
+      "frecuencia relativa": 0.02,
+      "valor promedio": 18.9086,
+      "varianza": 118.0374,
+      "desviacion estandar": 10.8645
+    },
+    "351": {
+      "frecuencia relativa": 0.0199,
+      "valor promedio": 18.8889,
+      "varianza": 117.8367,
+      "desviacion estandar": 10.8553
+    },
+    "352": {
+      "frecuencia relativa": 0.0199,
+      "valor promedio": 18.9233,
+      "varianza": 117.9174,
+      "desviacion estandar": 10.859
+    },
+    "353": {
+      "frecuencia relativa": 0.0198,
+      "valor promedio": 18.9575,
+      "varianza": 117.9954,
+      "desviacion estandar": 10.8626
+    },
+    "354": {
+      "frecuencia relativa": 0.0198,
+      "valor promedio": 18.952,
+      "varianza": 117.6728,
+      "desviacion estandar": 10.8477
+    },
+    "355": {
+      "frecuencia relativa": 0.0197,
+      "valor promedio": 18.9465,
+      "varianza": 117.3521,
+      "desviacion estandar": 10.8329
+    },
+    "356": {
+      "frecuencia relativa": 0.0197,
+      "valor promedio": 18.9129,
+      "varianza": 117.4222,
+      "desviacion estandar": 10.8362
+    },
+    "357": {
+      "frecuencia relativa": 0.0196,
+      "valor promedio": 18.8683,
+      "varianza": 117.8006,
+      "desviacion estandar": 10.8536
+    },
+    "358": {
+      "frecuencia relativa": 0.0196,
+      "valor promedio": 18.8687,
+      "varianza": 117.4716,
+      "desviacion estandar": 10.8384
+    },
+    "359": {
+      "frecuencia relativa": 0.0195,
+      "valor promedio": 18.8747,
+      "varianza": 117.157,
+      "desviacion estandar": 10.8239
+    },
+    "360": {
+      "frecuencia relativa": 0.0194,
+      "valor promedio": 18.8833,
+      "varianza": 116.8586,
+      "desviacion estandar": 10.8101
+    },
+    "361": {
+      "frecuencia relativa": 0.0194,
+      "valor promedio": 18.892,
+      "varianza": 116.5617,
+      "desviacion estandar": 10.7964
+    },
+    "362": {
+      "frecuencia relativa": 0.0193,
+      "valor promedio": 18.8812,
+      "varianza": 116.2815,
+      "desviacion estandar": 10.7834
+    },
+    "363": {
+      "frecuencia relativa": 0.0193,
+      "valor promedio": 18.9118,
+      "varianza": 116.3008,
+      "desviacion estandar": 10.7843
+    },
+    "364": {
+      "frecuencia relativa": 0.0192,
+      "valor promedio": 18.8984,
+      "varianza": 116.0474,
+      "desviacion estandar": 10.7725
+    },
+    "365": {
+      "frecuencia relativa": 0.0192,
+      "valor promedio": 18.9041,
+      "varianza": 115.7415,
+      "desviacion estandar": 10.7583
+    },
+    "366": {
+      "frecuencia relativa": 0.0191,
+      "valor promedio": 18.9399,
+      "varianza": 115.8926,
+      "desviacion estandar": 10.7653
+    },
+    "367": {
+      "frecuencia relativa": 0.0191,
+      "valor promedio": 18.9755,
+      "varianza": 116.0403,
+      "desviacion estandar": 10.7722
+    },
+    "368": {
+      "frecuencia relativa": 0.019,
+      "valor promedio": 18.9484,
+      "varianza": 115.9946,
+      "desviacion estandar": 10.7701
+    },
+    "369": {
+      "frecuencia relativa": 0.019,
+      "valor promedio": 18.9512,
+      "varianza": 115.6833,
+      "desviacion estandar": 10.7556
+    },
+    "370": {
+      "frecuencia relativa": 0.0189,
+      "valor promedio": 18.9108,
+      "varianza": 115.9731,
+      "desviacion estandar": 10.7691
+    },
+    "371": {
+      "frecuencia relativa": 0.0189,
+      "valor promedio": 18.9111,
+      "varianza": 115.6606,
+      "desviacion estandar": 10.7546
+    },
+    "372": {
+      "frecuencia relativa": 0.0188,
+      "valor promedio": 18.922,
+      "varianza": 115.3945,
+      "desviacion estandar": 10.7422
+    },
+    "373": {
+      "frecuencia relativa": 0.0188,
+      "valor promedio": 18.9625,
+      "varianza": 115.693,
+      "desviacion estandar": 10.7561
+    },
+    "374": {
+      "frecuencia relativa": 0.0187,
+      "valor promedio": 18.9225,
+      "varianza": 115.9806,
+      "desviacion estandar": 10.7694
+    },
+    "375": {
+      "frecuencia relativa": 0.0187,
+      "valor promedio": 18.9013,
+      "varianza": 115.8383,
+      "desviacion estandar": 10.7628
+    },
+    "376": {
+      "frecuencia relativa": 0.0186,
+      "valor promedio": 18.9122,
+      "varianza": 115.5747,
+      "desviacion estandar": 10.7506
+    },
+    "377": {
+      "frecuencia relativa": 0.0186,
+      "valor promedio": 18.9337,
+      "varianza": 115.4412,
+      "desviacion estandar": 10.7444
+    },
+    "378": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 18.9339,
+      "varianza": 115.1358,
+      "desviacion estandar": 10.7301
+    },
+    "379": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 18.9235,
+      "varianza": 114.8728,
+      "desviacion estandar": 10.7179
+    },
+    "380": {
+      "frecuencia relativa": 0.0184,
+      "valor promedio": 18.9079,
+      "varianza": 114.6626,
+      "desviacion estandar": 10.7081
+    },
+    "381": {
+      "frecuencia relativa": 0.0184,
+      "valor promedio": 18.8976,
+      "varianza": 114.4016,
+      "desviacion estandar": 10.6959
+    },
+    "382": {
+      "frecuencia relativa": 0.0183,
+      "valor promedio": 18.9372,
+      "varianza": 114.6976,
+      "desviacion estandar": 10.7097
+    },
+    "383": {
+      "frecuencia relativa": 0.0183,
+      "valor promedio": 18.9164,
+      "varianza": 114.5622,
+      "desviacion estandar": 10.7034
+    },
+    "384": {
+      "frecuencia relativa": 0.0182,
+      "valor promedio": 18.9062,
+      "varianza": 114.3037,
+      "desviacion estandar": 10.6913
+    },
+    "385": {
+      "frecuencia relativa": 0.0182,
+      "valor promedio": 18.8727,
+      "varianza": 114.4383,
+      "desviacion estandar": 10.6976
+    },
+    "386": {
+      "frecuencia relativa": 0.0181,
+      "valor promedio": 18.8316,
+      "varianza": 114.7929,
+      "desviacion estandar": 10.7141
+    },
+    "387": {
+      "frecuencia relativa": 0.0181,
+      "valor promedio": 18.8734,
+      "varianza": 115.17,
+      "desviacion estandar": 10.7317
+    },
+    "388": {
+      "frecuencia relativa": 0.018,
+      "valor promedio": 18.8428,
+      "varianza": 115.2356,
+      "desviacion estandar": 10.7348
+    },
+    "389": {
+      "frecuencia relativa": 0.018,
+      "valor promedio": 18.8817,
+      "varianza": 115.5284,
+      "desviacion estandar": 10.7484
+    },
+    "390": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 18.8513,
+      "varianza": 115.5933,
+      "desviacion estandar": 10.7514
+    },
+    "391": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 18.8593,
+      "varianza": 115.3229,
+      "desviacion estandar": 10.7389
+    },
+    "392": {
+      "frecuencia relativa": 0.0179,
+      "valor promedio": 18.8163,
+      "varianza": 115.752,
+      "desviacion estandar": 10.7588
+    },
+    "393": {
+      "frecuencia relativa": 0.0178,
+      "valor promedio": 18.8524,
+      "varianza": 115.968,
+      "desviacion estandar": 10.7688
+    },
+    "394": {
+      "frecuencia relativa": 0.0178,
+      "valor promedio": 18.8604,
+      "varianza": 115.6988,
+      "desviacion estandar": 10.7563
+    },
+    "395": {
+      "frecuencia relativa": 0.0177,
+      "valor promedio": 18.8228,
+      "varianza": 115.9635,
+      "desviacion estandar": 10.7686
+    },
+    "396": {
+      "frecuencia relativa": 0.0177,
+      "valor promedio": 18.7803,
+      "varianza": 116.3836,
+      "desviacion estandar": 10.7881
+    },
+    "397": {
+      "frecuencia relativa": 0.0176,
+      "valor promedio": 18.7859,
+      "varianza": 116.1028,
+      "desviacion estandar": 10.7751
+    },
+    "398": {
+      "frecuencia relativa": 0.0176,
+      "valor promedio": 18.7839,
+      "varianza": 115.8126,
+      "desviacion estandar": 10.7616
+    },
+    "399": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.7519,
+      "varianza": 115.9309,
+      "desviacion estandar": 10.7671
+    },
+    "400": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.7525,
+      "varianza": 115.6412,
+      "desviacion estandar": 10.7537
+    },
+    "401": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.7905,
+      "varianza": 115.9312,
+      "desviacion estandar": 10.7671
+    },
+    "402": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.7587,
+      "varianza": 116.0487,
+      "desviacion estandar": 10.7726
+    },
+    "403": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.7891,
+      "varianza": 116.1317,
+      "desviacion estandar": 10.7764
+    },
+    "404": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.7772,
+      "varianza": 115.9009,
+      "desviacion estandar": 10.7657
+    },
+    "405": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.758,
+      "varianza": 115.7637,
+      "desviacion estandar": 10.7594
+    },
+    "406": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.7709,
+      "varianza": 115.5461,
+      "desviacion estandar": 10.7492
+    },
+    "407": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.8157,
+      "varianza": 116.0766,
+      "desviacion estandar": 10.7739
+    },
+    "408": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.7892,
+      "varianza": 116.0781,
+      "desviacion estandar": 10.774
+    },
+    "409": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 18.7702,
+      "varianza": 115.9423,
+      "desviacion estandar": 10.7677
+    },
+    "410": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 18.7707,
+      "varianza": 115.6596,
+      "desviacion estandar": 10.7545
+    },
+    "411": {
+      "frecuencia relativa": 0.017,
+      "valor promedio": 18.7932,
+      "varianza": 115.585,
+      "desviacion estandar": 10.751
+    },
+    "412": {
+      "frecuencia relativa": 0.017,
+      "valor promedio": 18.7767,
+      "varianza": 115.4162,
+      "desviacion estandar": 10.7432
+    },
+    "413": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.7361,
+      "varianza": 115.8165,
+      "desviacion estandar": 10.7618
+    },
+    "414": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.744,
+      "varianza": 115.5625,
+      "desviacion estandar": 10.75
+    },
+    "415": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.706,
+      "varianza": 115.8798,
+      "desviacion estandar": 10.7647
+    },
+    "416": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 18.6803,
+      "varianza": 115.8761,
+      "desviacion estandar": 10.7646
+    },
+    "417": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 18.6715,
+      "varianza": 115.6307,
+      "desviacion estandar": 10.7532
+    },
+    "418": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.6411,
+      "varianza": 115.7373,
+      "desviacion estandar": 10.7581
+    },
+    "419": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.6635,
+      "varianza": 115.6696,
+      "desviacion estandar": 10.755
+    },
+    "420": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.6762,
+      "varianza": 115.4618,
+      "desviacion estandar": 10.7453
+    },
+    "421": {
+      "frecuencia relativa": 0.0166,
+      "valor promedio": 18.7197,
+      "varianza": 115.9832,
+      "desviacion estandar": 10.7695
+    },
+    "422": {
+      "frecuencia relativa": 0.0166,
+      "valor promedio": 18.7512,
+      "varianza": 116.1253,
+      "desviacion estandar": 10.7761
+    },
+    "423": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.7163,
+      "varianza": 116.364,
+      "desviacion estandar": 10.7872
+    },
+    "424": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.6981,
+      "varianza": 116.2296,
+      "desviacion estandar": 10.781
+    },
+    "425": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.7294,
+      "varianza": 116.3715,
+      "desviacion estandar": 10.7876
+    },
+    "426": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.7136,
+      "varianza": 116.2044,
+      "desviacion estandar": 10.7798
+    },
+    "427": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.7237,
+      "varianza": 115.9752,
+      "desviacion estandar": 10.7692
+    },
+    "428": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.7009,
+      "varianza": 115.9246,
+      "desviacion estandar": 10.7668
+    },
+    "429": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.669,
+      "varianza": 116.0909,
+      "desviacion estandar": 10.7745
+    },
+    "430": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.7047,
+      "varianza": 116.3663,
+      "desviacion estandar": 10.7873
+    },
+    "431": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 18.7471,
+      "varianza": 116.8711,
+      "desviacion estandar": 10.8107
+    },
+    "432": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 18.7477,
+      "varianza": 116.6007,
+      "desviacion estandar": 10.7982
+    },
+    "433": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 18.7321,
+      "varianza": 116.4363,
+      "desviacion estandar": 10.7906
+    },
+    "434": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.7189,
+      "varianza": 116.2436,
+      "desviacion estandar": 10.7816
+    },
+    "435": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.708,
+      "varianza": 116.0274,
+      "desviacion estandar": 10.7716
+    },
+    "436": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.6995,
+      "varianza": 115.7928,
+      "desviacion estandar": 10.7607
+    },
+    "437": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 18.6682,
+      "varianza": 115.9563,
+      "desviacion estandar": 10.7683
+    },
+    "438": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 18.6758,
+      "varianza": 115.7168,
+      "desviacion estandar": 10.7572
+    },
+    "439": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.7084,
+      "varianza": 115.9195,
+      "desviacion estandar": 10.7666
+    },
+    "440": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.7159,
+      "varianza": 115.6807,
+      "desviacion estandar": 10.7555
+    },
+    "441": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.7324,
+      "varianza": 115.5384,
+      "desviacion estandar": 10.7489
+    },
+    "442": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.7217,
+      "varianza": 115.3275,
+      "desviacion estandar": 10.7391
+    },
+    "443": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.6885,
+      "varianza": 115.5553,
+      "desviacion estandar": 10.7497
+    },
+    "444": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.6667,
+      "varianza": 115.506,
+      "desviacion estandar": 10.7474
+    },
+    "445": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.6989,
+      "varianza": 115.7071,
+      "desviacion estandar": 10.7567
+    },
+    "446": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.7175,
+      "varianza": 115.6018,
+      "desviacion estandar": 10.7518
+    },
+    "447": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.7204,
+      "varianza": 115.3469,
+      "desviacion estandar": 10.74
+    },
+    "448": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.6897,
+      "varianza": 115.5086,
+      "desviacion estandar": 10.7475
+    },
+    "449": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.6637,
+      "varianza": 115.5551,
+      "desviacion estandar": 10.7497
+    },
+    "450": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.6533,
+      "varianza": 115.3465,
+      "desviacion estandar": 10.7399
+    },
+    "451": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 18.6497,
+      "varianza": 115.0968,
+      "desviacion estandar": 10.7283
+    },
+    "452": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 18.6549,
+      "varianza": 114.8543,
+      "desviacion estandar": 10.717
+    },
+    "453": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 18.6711,
+      "varianza": 114.7196,
+      "desviacion estandar": 10.7107
+    },
+    "454": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.674,
+      "varianza": 114.4708,
+      "desviacion estandar": 10.6991
+    },
+    "455": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.7055,
+      "varianza": 114.6693,
+      "desviacion estandar": 10.7084
+    },
+    "456": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.7149,
+      "varianza": 114.4582,
+      "desviacion estandar": 10.6985
+    },
+    "457": {
+      "frecuencia relativa": 0.0153,
+      "valor promedio": 18.7068,
+      "varianza": 114.2379,
+      "desviacion estandar": 10.6882
+    },
+    "458": {
+      "frecuencia relativa": 0.0175,
+      "valor promedio": 18.6659,
+      "varianza": 114.7508,
+      "desviacion estandar": 10.7122
+    },
+    "459": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.6972,
+      "varianza": 114.9475,
+      "desviacion estandar": 10.7214
+    },
+    "460": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.6587,
+      "varianza": 115.377,
+      "desviacion estandar": 10.7414
+    },
+    "461": {
+      "frecuencia relativa": 0.0174,
+      "valor promedio": 18.6399,
+      "varianza": 115.289,
+      "desviacion estandar": 10.7373
+    },
+    "462": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.619,
+      "varianza": 115.2402,
+      "desviacion estandar": 10.735
+    },
+    "463": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.6523,
+      "varianza": 115.5011,
+      "desviacion estandar": 10.7471
+    },
+    "464": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.6767,
+      "varianza": 115.5291,
+      "desviacion estandar": 10.7484
+    },
+    "465": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.6495,
+      "varianza": 115.6255,
+      "desviacion estandar": 10.7529
+    },
+    "466": {
+      "frecuencia relativa": 0.0172,
+      "valor promedio": 18.6824,
+      "varianza": 115.882,
+      "desviacion estandar": 10.7649
+    },
+    "467": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 18.7216,
+      "varianza": 116.3508,
+      "desviacion estandar": 10.7866
+    },
+    "468": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 18.6838,
+      "varianza": 116.7718,
+      "desviacion estandar": 10.8061
+    },
+    "469": {
+      "frecuencia relativa": 0.0171,
+      "valor promedio": 18.7079,
+      "varianza": 116.7953,
+      "desviacion estandar": 10.8072
+    },
+    "470": {
+      "frecuencia relativa": 0.017,
+      "valor promedio": 18.7213,
+      "varianza": 116.6308,
+      "desviacion estandar": 10.7996
+    },
+    "471": {
+      "frecuencia relativa": 0.017,
+      "valor promedio": 18.6858,
+      "varianza": 116.9756,
+      "desviacion estandar": 10.8155
+    },
+    "472": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.6928,
+      "varianza": 116.751,
+      "desviacion estandar": 10.8051
+    },
+    "473": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.7019,
+      "varianza": 116.5433,
+      "desviacion estandar": 10.7955
+    },
+    "474": {
+      "frecuencia relativa": 0.0169,
+      "valor promedio": 18.673,
+      "varianza": 116.6926,
+      "desviacion estandar": 10.8024
+    },
+    "475": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 18.6905,
+      "varianza": 116.5926,
+      "desviacion estandar": 10.7978
+    },
+    "476": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 18.687,
+      "varianza": 116.3537,
+      "desviacion estandar": 10.7867
+    },
+    "477": {
+      "frecuencia relativa": 0.0168,
+      "valor promedio": 18.6688,
+      "varianza": 116.2676,
+      "desviacion estandar": 10.7827
+    },
+    "478": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.6339,
+      "varianza": 116.6045,
+      "desviacion estandar": 10.7984
+    },
+    "479": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.6221,
+      "varianza": 116.4272,
+      "desviacion estandar": 10.7901
+    },
+    "480": {
+      "frecuencia relativa": 0.0167,
+      "valor promedio": 18.6167,
+      "varianza": 116.1989,
+      "desviacion estandar": 10.7796
+    },
+    "481": {
+      "frecuencia relativa": 0.0166,
+      "valor promedio": 18.6237,
+      "varianza": 115.9811,
+      "desviacion estandar": 10.7695
+    },
+    "482": {
+      "frecuencia relativa": 0.0166,
+      "valor promedio": 18.6141,
+      "varianza": 115.7847,
+      "desviacion estandar": 10.7603
+    },
+    "483": {
+      "frecuencia relativa": 0.0166,
+      "valor promedio": 18.6439,
+      "varianza": 115.9726,
+      "desviacion estandar": 10.7691
+    },
+    "484": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.6591,
+      "varianza": 115.8445,
+      "desviacion estandar": 10.7631
+    },
+    "485": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.6825,
+      "varianza": 115.8703,
+      "desviacion estandar": 10.7643
+    },
+    "486": {
+      "frecuencia relativa": 0.0165,
+      "valor promedio": 18.6831,
+      "varianza": 115.6321,
+      "desviacion estandar": 10.7532
+    },
+    "487": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.6776,
+      "varianza": 115.4094,
+      "desviacion estandar": 10.7429
+    },
+    "488": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.7152,
+      "varianza": 115.8594,
+      "desviacion estandar": 10.7638
+    },
+    "489": {
+      "frecuencia relativa": 0.0164,
+      "valor promedio": 18.6871,
+      "varianza": 116.0064,
+      "desviacion estandar": 10.7706
+    },
+    "490": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.6755,
+      "varianza": 115.8355,
+      "desviacion estandar": 10.7627
+    },
+    "491": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.6395,
+      "varianza": 116.2346,
+      "desviacion estandar": 10.7812
+    },
+    "492": {
+      "frecuencia relativa": 0.0163,
+      "valor promedio": 18.6504,
+      "varianza": 116.0566,
+      "desviacion estandar": 10.773
+    },
+    "493": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 18.6694,
+      "varianza": 115.9982,
+      "desviacion estandar": 10.7702
+    },
+    "494": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 18.6437,
+      "varianza": 116.0876,
+      "desviacion estandar": 10.7744
+    },
+    "495": {
+      "frecuencia relativa": 0.0162,
+      "valor promedio": 18.6747,
+      "varianza": 116.3286,
+      "desviacion estandar": 10.7856
+    },
+    "496": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.7097,
+      "varianza": 116.698,
+      "desviacion estandar": 10.8027
+    },
+    "497": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.6901,
+      "varianza": 116.6525,
+      "desviacion estandar": 10.8006
+    },
+    "498": {
+      "frecuencia relativa": 0.0161,
+      "valor promedio": 18.6807,
+      "varianza": 116.4623,
+      "desviacion estandar": 10.7918
+    },
+    "499": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 18.6974,
+      "varianza": 116.3673,
+      "desviacion estandar": 10.7874
+    },
+    "500": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 18.672,
+      "varianza": 116.4564,
+      "desviacion estandar": 10.7915
+    },
+    "501": {
+      "frecuencia relativa": 0.016,
+      "valor promedio": 18.6627,
+      "varianza": 116.2674,
+      "desviacion estandar": 10.7827
+    },
+    "502": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.6892,
+      "varianza": 116.3895,
+      "desviacion estandar": 10.7884
+    },
+    "503": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.6581,
+      "varianza": 116.6465,
+      "desviacion estandar": 10.8003
+    },
+    "504": {
+      "frecuencia relativa": 0.0159,
+      "valor promedio": 18.6369,
+      "varianza": 116.64,
+      "desviacion estandar": 10.8
+    },
+    "505": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.6297,
+      "varianza": 116.4352,
+      "desviacion estandar": 10.7905
+    },
+    "506": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.6601,
+      "varianza": 116.671,
+      "desviacion estandar": 10.8014
+    },
+    "507": {
+      "frecuencia relativa": 0.0158,
+      "valor promedio": 18.6272,
+      "varianza": 116.9873,
+      "desviacion estandar": 10.8161
+    },
+    "508": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.6339,
+      "varianza": 116.7793,
+      "desviacion estandar": 10.8064
+    },
+    "509": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.664,
+      "varianza": 117.0129,
+      "desviacion estandar": 10.8173
+    },
+    "510": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.6451,
+      "varianza": 116.9662,
+      "desviacion estandar": 10.8151
+    },
+    "511": {
+      "frecuencia relativa": 0.0157,
+      "valor promedio": 18.6223,
+      "varianza": 117.0022,
+      "desviacion estandar": 10.8168
+    },
+    "512": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.6309,
+      "varianza": 116.811,
+      "desviacion estandar": 10.8079
+    },
+    "513": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.6238,
+      "varianza": 116.6089,
+      "desviacion estandar": 10.7986
+    },
+    "514": {
+      "frecuencia relativa": 0.0156,
+      "valor promedio": 18.607,
+      "varianza": 116.5265,
+      "desviacion estandar": 10.7947
+    },
+    "515": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 18.6388,
+      "varianza": 116.821,
+      "desviacion estandar": 10.8084
+    },
+    "516": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 18.6434,
+      "varianza": 116.6054,
+      "desviacion estandar": 10.7984
+    },
+    "517": {
+      "frecuencia relativa": 0.0155,
+      "valor promedio": 18.6673,
+      "varianza": 116.6746,
+      "desviacion estandar": 10.8016
+    },
+    "518": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.6853,
+      "varianza": 116.6172,
+      "desviacion estandar": 10.7989
+    },
+    "519": {
+      "frecuencia relativa": 0.0154,
+      "valor promedio": 18.7129,
+      "varianza": 116.7866,
+      "desviacion estandar": 10.8068
+    },
+    "520": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.6769,
+      "varianza": 117.2341,
+      "desviacion estandar": 10.8275
+    },
+    "521": {
+      "frecuencia relativa": 0.0173,
+      "valor promedio": 18.7025,
+      "varianza": 117.3491,
+      "desviacion estandar": 10.8328
+    },
+    "522": {
+      "frecuencia relativa": 0.0192,
+      "valor promedio": 18.6667,
+      "varianza": 117.7931,
+      "desviacion estandar": 10.8533
+    },
+    "523": {
+      "frecuencia relativa": 0.0191,
+      "valor promedio": 18.6539,
+      "varianza": 117.6527,
+      "desviacion estandar": 10.8468
+    },
+    "524": {
+      "frecuencia relativa": 0.0191,
+      "valor promedio": 18.6202,
+      "varianza": 118.0218,
+      "desviacion estandar": 10.8638
+    },
+    "525": {
+      "frecuencia relativa": 0.019,
+      "valor promedio": 18.64,
+      "varianza": 118.0018,
+      "desviacion estandar": 10.8629
+    },
+    "526": {
+      "frecuencia relativa": 0.019,
+      "valor promedio": 18.635,
+      "varianza": 117.7907,
+      "desviacion estandar": 10.8531
+    },
+    "527": {
+      "frecuencia relativa": 0.019,
+      "valor promedio": 18.6584,
+      "varianza": 117.8568,
+      "desviacion estandar": 10.8562
+    },
+    "528": {
+      "frecuencia relativa": 0.0189,
+      "valor promedio": 18.6723,
+      "varianza": 117.7354,
+      "desviacion estandar": 10.8506
+    },
+    "529": {
+      "frecuencia relativa": 0.0189,
+      "valor promedio": 18.6578,
+      "varianza": 117.624,
+      "desviacion estandar": 10.8455
+    },
+    "530": {
+      "frecuencia relativa": 0.0189,
+      "valor promedio": 18.6547,
+      "varianza": 117.4072,
+      "desviacion estandar": 10.8355
+    },
+    "531": {
+      "frecuencia relativa": 0.0188,
+      "valor promedio": 18.6629,
+      "varianza": 117.2216,
+      "desviacion estandar": 10.8269
+    },
+    "532": {
+      "frecuencia relativa": 0.0188,
+      "valor promedio": 18.6429,
+      "varianza": 117.2146,
+      "desviacion estandar": 10.8266
+    },
+    "533": {
+      "frecuencia relativa": 0.0188,
+      "valor promedio": 18.6529,
+      "varianza": 117.0484,
+      "desviacion estandar": 10.8189
+    },
+    "534": {
+      "frecuencia relativa": 0.0187,
+      "valor promedio": 18.6442,
+      "varianza": 116.8697,
+      "desviacion estandar": 10.8106
+    },
+    "535": {
+      "frecuencia relativa": 0.0187,
+      "valor promedio": 18.6598,
+      "varianza": 116.7815,
+      "desviacion estandar": 10.8065
+    },
+    "536": {
+      "frecuencia relativa": 0.0187,
+      "valor promedio": 18.6716,
+      "varianza": 116.6384,
+      "desviacion estandar": 10.7999
+    },
+    "537": {
+      "frecuencia relativa": 0.0186,
+      "valor promedio": 18.6443,
+      "varianza": 116.8214,
+      "desviacion estandar": 10.8084
+    },
+    "538": {
+      "frecuencia relativa": 0.0186,
+      "valor promedio": 18.6152,
+      "varianza": 117.0583,
+      "desviacion estandar": 10.8193
+    },
+    "539": {
+      "frecuencia relativa": 0.0186,
+      "valor promedio": 18.6141,
+      "varianza": 116.8418,
+      "desviacion estandar": 10.8093
+    },
+    "540": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 18.6241,
+      "varianza": 116.6791,
+      "desviacion estandar": 10.8018
+    },
+    "541": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 18.647,
+      "varianza": 116.746,
+      "desviacion estandar": 10.8049
+    },
+    "542": {
+      "frecuencia relativa": 0.0185,
+      "valor promedio": 18.6458,
+      "varianza": 116.5313,
+      "desviacion estandar": 10.795
+    },
+    "543": {
+      "frecuencia relativa": 0.0184,
+      "valor promedio": 18.6335,
+      "varianza": 116.3979,
+      "desviacion estandar": 10.7888
+    },
+    "544": {
+      "frecuencia relativa": 0.0184,
+      "valor promedio": 18.6507,
+      "varianza": 116.3449,
+      "desviacion estandar": 10.7863
+    },
+    "545": {
+      "frecuencia relativa": 0.0202,
+      "valor promedio": 18.6165,
+      "varianza": 116.7685,
+      "desviacion estandar": 10.8059
+    },
+    "546": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.641,
+      "varianza": 116.8821,
+      "desviacion estandar": 10.8112
+    },
+    "547": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.6325,
+      "varianza": 116.7078,
+      "desviacion estandar": 10.8031
+    },
+    "548": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.6606,
+      "varianza": 116.9249,
+      "desviacion estandar": 10.8132
+    },
+    "549": {
+      "frecuencia relativa": 0.02,
+      "valor promedio": 18.6812,
+      "varianza": 116.9458,
+      "desviacion estandar": 10.8141
+    },
+    "550": {
+      "frecuencia relativa": 0.02,
+      "valor promedio": 18.6709,
+      "varianza": 116.7917,
+      "desviacion estandar": 10.807
+    },
+    "551": {
+      "frecuencia relativa": 0.0218,
+      "valor promedio": 18.637,
+      "varianza": 117.2113,
+      "desviacion estandar": 10.8264
+    },
+    "552": {
+      "frecuencia relativa": 0.0217,
+      "valor promedio": 18.6431,
+      "varianza": 117.0194,
+      "desviacion estandar": 10.8176
+    },
+    "553": {
+      "frecuencia relativa": 0.0217,
+      "valor promedio": 18.6763,
+      "varianza": 117.416,
+      "desviacion estandar": 10.8359
+    },
+    "554": {
+      "frecuencia relativa": 0.0217,
+      "valor promedio": 18.6733,
+      "varianza": 117.2091,
+      "desviacion estandar": 10.8263
+    },
+    "555": {
+      "frecuencia relativa": 0.0216,
+      "valor promedio": 18.6523,
+      "varianza": 117.243,
+      "desviacion estandar": 10.8279
+    },
+    "556": {
+      "frecuencia relativa": 0.0216,
+      "valor promedio": 18.6331,
+      "varianza": 117.2359,
+      "desviacion estandar": 10.8276
+    },
+    "557": {
+      "frecuencia relativa": 0.0215,
+      "valor promedio": 18.6481,
+      "varianza": 117.1509,
+      "desviacion estandar": 10.8236
+    },
+    "558": {
+      "frecuencia relativa": 0.0215,
+      "valor promedio": 18.629,
+      "varianza": 117.1437,
+      "desviacion estandar": 10.8233
+    },
+    "559": {
+      "frecuencia relativa": 0.0215,
+      "valor promedio": 18.6565,
+      "varianza": 117.3561,
+      "desviacion estandar": 10.8331
+    },
+    "560": {
+      "frecuencia relativa": 0.0214,
+      "valor promedio": 18.6536,
+      "varianza": 117.1514,
+      "desviacion estandar": 10.8237
+    },
+    "561": {
+      "frecuencia relativa": 0.0214,
+      "valor promedio": 18.6292,
+      "varianza": 117.2743,
+      "desviacion estandar": 10.8293
+    },
+    "562": {
+      "frecuencia relativa": 0.0214,
+      "valor promedio": 18.6139,
+      "varianza": 117.1979,
+      "desviacion estandar": 10.8258
+    },
+    "563": {
+      "frecuencia relativa": 0.0213,
+      "valor promedio": 18.5844,
+      "varianza": 117.4791,
+      "desviacion estandar": 10.8388
+    },
+    "564": {
+      "frecuencia relativa": 0.0213,
+      "valor promedio": 18.617,
+      "varianza": 117.8711,
+      "desviacion estandar": 10.8568
+    },
+    "565": {
+      "frecuencia relativa": 0.0212,
+      "valor promedio": 18.6248,
+      "varianza": 117.6964,
+      "desviacion estandar": 10.8488
+    },
+    "566": {
+      "frecuencia relativa": 0.0212,
+      "valor promedio": 18.6131,
+      "varianza": 117.5658,
+      "desviacion estandar": 10.8428
+    },
+    "567": {
+      "frecuencia relativa": 0.0212,
+      "valor promedio": 18.5891,
+      "varianza": 117.6847,
+      "desviacion estandar": 10.8483
+    },
+    "568": {
+      "frecuencia relativa": 0.0211,
+      "valor promedio": 18.5951,
+      "varianza": 117.498,
+      "desviacion estandar": 10.8396
+    },
+    "569": {
+      "frecuencia relativa": 0.0211,
+      "valor promedio": 18.6186,
+      "varianza": 117.6068,
+      "desviacion estandar": 10.8447
+    },
+    "570": {
+      "frecuencia relativa": 0.0211,
+      "valor promedio": 18.6404,
+      "varianza": 117.6689,
+      "desviacion estandar": 10.8475
+    },
+    "571": {
+      "frecuencia relativa": 0.021,
+      "valor promedio": 18.6182,
+      "varianza": 117.7422,
+      "desviacion estandar": 10.8509
+    },
+    "572": {
+      "frecuencia relativa": 0.021,
+      "valor promedio": 18.6399,
+      "varianza": 117.8039,
+      "desviacion estandar": 10.8538
+    },
+    "573": {
+      "frecuencia relativa": 0.0209,
+      "valor promedio": 18.6684,
+      "varianza": 118.0646,
+      "desviacion estandar": 10.8658
+    },
+    "574": {
+      "frecuencia relativa": 0.0209,
+      "valor promedio": 18.6516,
+      "varianza": 118.0215,
+      "desviacion estandar": 10.8638
+    },
+    "575": {
+      "frecuencia relativa": 0.0209,
+      "valor promedio": 18.6296,
+      "varianza": 118.0941,
+      "desviacion estandar": 10.8671
+    },
+    "576": {
+      "frecuencia relativa": 0.0208,
+      "valor promedio": 18.6476,
+      "varianza": 118.0754,
+      "desviacion estandar": 10.8663
+    },
+    "577": {
+      "frecuencia relativa": 0.0208,
+      "valor promedio": 18.6742,
+      "varianza": 118.2786,
+      "desviacion estandar": 10.8756
+    },
+    "578": {
+      "frecuencia relativa": 0.0208,
+      "valor promedio": 18.6972,
+      "varianza": 118.3806,
+      "desviacion estandar": 10.8803
+    },
+    "579": {
+      "frecuencia relativa": 0.0207,
+      "valor promedio": 18.7047,
+      "varianza": 118.2081,
+      "desviacion estandar": 10.8724
+    },
+    "580": {
+      "frecuencia relativa": 0.0207,
+      "valor promedio": 18.6862,
+      "varianza": 118.2015,
+      "desviacion estandar": 10.8721
+    },
+    "581": {
+      "frecuencia relativa": 0.0207,
+      "valor promedio": 18.6747,
+      "varianza": 118.0749,
+      "desviacion estandar": 10.8662
+    },
+    "582": {
+      "frecuencia relativa": 0.0206,
+      "valor promedio": 18.6907,
+      "varianza": 118.0212,
+      "desviacion estandar": 10.8638
+    },
+    "583": {
+      "frecuencia relativa": 0.0206,
+      "valor promedio": 18.7015,
+      "varianza": 117.8869,
+      "desviacion estandar": 10.8576
+    },
+    "584": {
+      "frecuencia relativa": 0.0205,
+      "valor promedio": 18.7003,
+      "varianza": 117.6859,
+      "desviacion estandar": 10.8483
+    },
+    "585": {
+      "frecuencia relativa": 0.0205,
+      "valor promedio": 18.694,
+      "varianza": 117.5081,
+      "desviacion estandar": 10.8401
+    },
+    "586": {
+      "frecuencia relativa": 0.0205,
+      "valor promedio": 18.7014,
+      "varianza": 117.3391,
+      "desviacion estandar": 10.8323
+    },
+    "587": {
+      "frecuencia relativa": 0.0204,
+      "valor promedio": 18.6882,
+      "varianza": 117.2401,
+      "desviacion estandar": 10.8277
+    },
+    "588": {
+      "frecuencia relativa": 0.0204,
+      "valor promedio": 18.682,
+      "varianza": 117.0638,
+      "desviacion estandar": 10.8196
+    },
+    "589": {
+      "frecuencia relativa": 0.0204,
+      "valor promedio": 18.6791,
+      "varianza": 116.8699,
+      "desviacion estandar": 10.8106
+    },
+    "590": {
+      "frecuencia relativa": 0.0203,
+      "valor promedio": 18.6949,
+      "varianza": 116.8188,
+      "desviacion estandar": 10.8083
+    },
+    "591": {
+      "frecuencia relativa": 0.0203,
+      "valor promedio": 18.6768,
+      "varianza": 116.8143,
+      "desviacion estandar": 10.8081
+    },
+    "592": {
+      "frecuencia relativa": 0.0203,
+      "valor promedio": 18.6993,
+      "varianza": 116.9164,
+      "desviacion estandar": 10.8128
+    },
+    "593": {
+      "frecuencia relativa": 0.0202,
+      "valor promedio": 18.7234,
+      "varianza": 117.0635,
+      "desviacion estandar": 10.8196
+    },
+    "594": {
+      "frecuencia relativa": 0.0202,
+      "valor promedio": 18.7071,
+      "varianza": 117.0253,
+      "desviacion estandar": 10.8178
+    },
+    "595": {
+      "frecuencia relativa": 0.0202,
+      "valor promedio": 18.7143,
+      "varianza": 116.8595,
+      "desviacion estandar": 10.8102
+    },
+    "596": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.7181,
+      "varianza": 116.6722,
+      "desviacion estandar": 10.8015
+    },
+    "597": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.7337,
+      "varianza": 116.6209,
+      "desviacion estandar": 10.7991
+    },
+    "598": {
+      "frecuencia relativa": 0.0201,
+      "valor promedio": 18.7124,
+      "varianza": 116.6965,
+      "desviacion estandar": 10.8026
+    },
+    "599": {
+      "frecuencia relativa": 0.02,
+      "valor promedio": 18.6928,
+      "varianza": 116.7303,
+      "desviacion estandar": 10.8042
+    },
+    "600": {
+      "frecuencia relativa": 0.02,
+      "valor promedio": 18.69,
+      "varianza": 116.5406,
+      "desviacion estandar": 10.7954
+    }
+  }
+}
