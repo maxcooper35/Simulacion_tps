@@ -5,7 +5,7 @@ import statistics
 import math
 
 # Verificar si se proporciona el número de valores como argumento
-if len(sys.argv) != 7 or sys.argv[1] != "-c":
+if len(sys.argv) != 7 or sys.argv[1] != "-c" or sys.argv[3] != "-n" or sys.argv[5] != "-e":
     print("Uso: python file.py -c XXX -n YYY -e ZZ).")
     sys.exit(1)
 
