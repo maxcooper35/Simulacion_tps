@@ -117,6 +117,8 @@ for i in range(cant_corridas):
     varianza_ac=calcular_varianza(valores)
 
 
+    #Genera grafico para las frecuencias relativas
+
     # Eje x: Número de repeticiones (desde 1 hasta el total de repeticiones)
     x_axis = list(range(1, len(valores) + 1))
 
@@ -149,7 +151,7 @@ for i in range(cant_corridas):
 
 
 
-
+     #Genera grafico para los promedios
 
     # Eje x: Número de repeticiones (desde 1 hasta el total de repeticiones)
     x_axis = list(range(1, len(valores) + 1))
@@ -182,7 +184,7 @@ for i in range(cant_corridas):
     plt.show()
 
 
-
+     #Genera grafico para la desviacion estandard
 
     # Eje x: Número de repeticiones (desde 1 hasta el total de repeticiones)
     x_axis = list(range(1, len(valores) + 1))
