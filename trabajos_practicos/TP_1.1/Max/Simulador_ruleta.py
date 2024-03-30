@@ -28,7 +28,7 @@ frecuencias_relativas_ac2=[]
 
 for i in range(cant_corridas):
 
-        # Generar los valores aleatorios entre 0 y 36 y almacenarlos en una lista
+        # Generar los valores aleatorios entre 0 y 37 y almacenarlos en una lista
     valores = [random.randint(0, 37) for _ in range(cant_tiradas)]
 
     
