@@ -31,7 +31,9 @@ for i in range(cant_corridas):
         # Generar los valores aleatorios entre 0 y 36 y almacenarlos en una lista
     valores = [random.randint(0, 37) for _ in range(cant_tiradas)]
 
-
+    
+    #Define funciones para calcular los estadisticos
+    
     def calcular_frecuencias(valores, numero_elegido):
 
                 frecuencias_relativas_ac=[]
@@ -117,7 +119,7 @@ for i in range(cant_corridas):
     varianza_ac=calcular_varianza(valores)
 
 
-    #Genera grafico para las frecuencias relativas
+    #Genera grafico para las frecuencias relativas y el valor esperado
 
     # Eje x: Número de repeticiones (desde 1 hasta el total de repeticiones)
     x_axis = list(range(1, len(valores) + 1))
@@ -151,7 +153,7 @@ for i in range(cant_corridas):
 
 
 
-     #Genera grafico para los promedios
+     #Genera grafico para los promedios y el valor esperado
 
     # Eje x: Número de repeticiones (desde 1 hasta el total de repeticiones)
     x_axis = list(range(1, len(valores) + 1))
@@ -184,7 +186,7 @@ for i in range(cant_corridas):
     plt.show()
 
 
-     #Genera grafico para la desviacion estandard
+     #Genera grafico para la desviacion estandard y el valor esperado
 
     # Eje x: Número de repeticiones (desde 1 hasta el total de repeticiones)
     x_axis = list(range(1, len(valores) + 1))
@@ -218,7 +220,7 @@ for i in range(cant_corridas):
 
 
 
-    #Genera grafico para la varianza y varianza esperada
+    #Genera grafico para la varianza y el valor esperado
 
     # Eje x: Número de repeticiones (desde 1 hasta el total de repeticiones)
     x_axis = list(range(1, len(valores) + 1))
