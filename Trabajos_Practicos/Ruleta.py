@@ -51,8 +51,7 @@ fig, axs = plt.subplots(2, 2)
 #Grafica de FR
 for i in range(len(f1)):
     axs[0,0].plot(f1[i], label=f'Línea {i+1}')
-axs[0,0].set_label('Frec Rel')
-axs[0,0].plot(frec_esp , label='F.R. Constante', linestyle='--',color='red')
+axs[0,0].plot(frec_esp , label='F.R. Esperada', linestyle='--',color='red')
 axs[0,0].set_xlabel('Número de tirada')
 axs[0,0].set_ylabel('Frec Rel')
 axs[0,0].set_title('Gráfico de Frecuencia Relativa')
@@ -62,7 +61,6 @@ axs[0,0].grid(True)
 #Grafica de Prom
 for i in range(len(f2)):
     axs[0,1].plot(f2[i], label=f'Línea {i+1}')
-axs[0,1].set_label('Promedio Real')
 axs[0,1].plot(prom_esp , label='Promedio esperado', linestyle='--', color='red')
 axs[0,1].set_xlabel('Número de tirada')
 axs[0,1].set_ylabel('Promedio')
@@ -73,7 +71,6 @@ axs[0,1].grid(True)
 #Gráfica de varianza
 for i in range(len(f3)):
     axs[1,0].plot(f3[i], label=f'Línea {i+1}')
-axs[1,0].set_label('Varianza Real')
 axs[1,0].plot(var_esp , label='Varianza esperado', linestyle='--', color='red')
 axs[1,0].set_xlabel('Número de tirada')
 axs[1,0].set_ylabel('Varianza')
@@ -84,7 +81,6 @@ axs[1,0].grid(True)
 #Gráfica de desvio
 for i in range(len(f4)):
     axs[1,1].plot(f4[i], label=f'Línea {i+1}')
-axs[1,1].set_label('Desvio Real')
 axs[1,1].plot(desv_esp , label='Desvio esperado', linestyle='--', color='red')
 axs[1,1].set_xlabel('Número de tirada')
 axs[1,1].set_ylabel('Desvio')
